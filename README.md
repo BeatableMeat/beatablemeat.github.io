@@ -9,7 +9,7 @@ The license below tells you that you can use the "Beatable Meat Portal" as base 
 ## THE AGREEMENT
 By cloning, modifying and/or distrubuting this repository, you AGREE to the below license. If you wish to be better safe than sorry, please read the license carefully before you clone this repo.
 
-# APACHE LICENSE VERSION 2.0, JANUARY 2004 (SLIGHTLY MODIFIED BY THE PHOENIX PROJECT) | http://www.apache.org/licenses/
+## APACHE LICENSE VERSION 2.0, JANUARY 2004 (SLIGHTLY MODIFIED BY THE PHOENIX PROJECT) | http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
