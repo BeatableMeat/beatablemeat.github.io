@@ -1,5 +1,5 @@
-# beatablemeat.github.io — source code for the Beatable Meat Portal website
-This site allows you to access our links and games.
+# BEATABLE MEAT PORTAL
+Since we don't want to spend money in the Beatable Meat project, and the main website's link is very long, we decided to make this website hosted on Github.
 
 
 
