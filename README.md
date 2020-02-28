@@ -1,6 +1,17 @@
 # BEATABLE MEAT PORTAL
 Since we don't want to spend money in the Beatable Meat project, and the main website's link is very long, we decided to make this website hosted on Github.
 
+# POSTING IN THE ISSUES PAGE
+Please note that the issues page is not justs for literal *issues*, but you can request something to be added to one of the sites. One of the moderators of the repository will add a label to your post to identify what it is.
+
+## Site codes
+If you do not include a site code at the start of the title of your post to show what website you're posting the issue for, your post will be closed and given the label `invalid` and will you have to edit the post. Once it is corrected, a moderator will re-open the post.
+
+### The site codes are the following:
+- `[BM]` — Beatable Meat
+- `[Portal]` — Beatable Meat Portal (except for the Beatable Games HTML subpage)
+- `[BG]` — Beatable Games
+- `[BGHTM]` — Beatable Games HTML
 # LICENSE
 ## SUMMARY
 The "Beatable Meat Portal" (and NOT THE CONTENT WITHIN THE LINKS OF THE "BEATABLE MEAT PORTAL") is Copyright © 2020 The Phoenix Project.
@@ -9,9 +20,9 @@ The license below tells you that you can use the "Beatable Meat Portal" as base 
 ## THE AGREEMENT
 By cloning, modifying and/or distrubuting this repository, you AGREE to the below license. If you wish to be better safe than sorry, please read the license carefully before you clone this repo.
 
-## APACHE LICENSE VERSION 2.0, JANUARY 2004 (SLIGHTLY MODIFIED BY THE PHOENIX PROJECT) | http://www.apache.org/licenses/
+### APACHE LICENSE VERSION 2.0, JANUARY 2004 (SLIGHTLY MODIFIED BY THE PHOENIX PROJECT) | http://www.apache.org/licenses/
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+#### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
 
@@ -182,7 +193,7 @@ By cloning, modifying and/or distrubuting this repository, you AGREE to the belo
       incurred by, or claims asserted against, such Contributor by reason
       of your accepting any such warranty or additional liability.
 
-## END OF TERMS AND CONDITIONS
+##### END OF TERMS AND CONDITIONS
    Copyright © 2020 The Phoenix Project
 
    Licensed under the Apache License, Version 2.0 (the "License");
