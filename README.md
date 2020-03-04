@@ -13,6 +13,8 @@ If you do not include a site code at the start of the title of your post to show
 - `[BG]` — Beatable Games
 - `[BGHTM]` — Beatable Games HTML
 - `[GitHub]` — The Beatable Meat Portal GitHub repository
+- `[BM2020]` - The Bruh-o-Meter 2020 website
+- `[Flash]` - glitchgod's Flash Repo
 # LICENSE
 ## SUMMARY
 The "Beatable Meat Portal" (and NOT THE CONTENT WITHIN THE LINKS OF THE "BEATABLE MEAT PORTAL") is Copyright © 2020 The Phoenix Project.
