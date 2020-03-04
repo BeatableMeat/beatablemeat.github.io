@@ -1,0 +1,36 @@
+/*
+    Beatable Meat Portal STYLES definer file. Written by https://github.com/sabian-heatwave for Beatable Meat Portal's frame code @ The Phoenix Project
+        Copyright © 2020 The Phoenix Project
+*/
+/* 
+    ALL HTML FILES WILL USE THESE STYLES DEFINED HERE UNLESS STATED OTHERWISE IN THE HTML FILE ITSELF.
+*/
+body {
+    font-family: Bahnschrift;
+    background-color: #757575;
+}
+
+h1 {
+    font-family:Bahnschrift;
+    color: white;
+}
+
+h2 {
+    font-family:Bahnschrift;
+    color: white;
+}
+
+h3 {
+    font-family:Bahnschrift;
+    color: white;
+}
+
+p {
+    font-family:Bahnschrift;
+    color: white;
+}
+
+a {
+    font-family:Bahnschrift;
+    color: white;
+}
