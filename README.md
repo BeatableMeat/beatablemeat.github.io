@@ -16,6 +16,8 @@ If you do not include a site code at the start of the title of your post to show
 - `[BM2020]` — The Bruh-o-Meter 2020 website
 - `[Flash]` — glitchgod's Flash Repo
 # LICENSE
+## NOTICE
+This repository uses the [Heatwave Portal Code Frame.](https://github.com/HeatwaveStudios/portal) If you wish to use it without Beatable Meat stuff, clone from there instead as it also includes detailed instructions on how to develop for it. The license below is for **THIS REPO.**
 ## SUMMARY
 The "Beatable Meat Portal" (and NOT THE CONTENT WITHIN THE LINKS OF THE "BEATABLE MEAT PORTAL") is Copyright © 2020 The Phoenix Project.
 The license below tells you that you can use the "Beatable Meat Portal" as base code for your own "portal" website, including for commercial use, but not for trademark use.
