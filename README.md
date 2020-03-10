@@ -15,6 +15,8 @@ If you do not include a site code at the start of the title of your post to show
 - `[GitHub]` — The Beatable Meat Portal GitHub repository
 - `[BM2020]` — The Bruh-o-Meter 2020 website
 - `[Flash]` — glitchgod's Flash Repo
+- `[BS]` — Beatable Scripts
+- `[BSP]` — Beatable Screenplays
 # LICENSE
 ## NOTICE
 This repository uses the [Heatwave Portal Code Frame.](https://github.com/HeatwaveStudios/portal) If you wish to use it without Beatable Meat stuff, clone from there instead as it also includes detailed instructions on how to develop for it. The license below is for **THIS REPO.**
