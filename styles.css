@@ -6,32 +6,32 @@
     ALL HTML FILES WILL USE THESE STYLES DEFINED HERE UNLESS STATED OTHERWISE IN THE HTML FILE ITSELF.
 */
 body {
-    font-family: Bahnschrift;
+    font-family: 'Bahnschrift Regular';
     background-color: #757575;
 }
 
 h1 {
-    font-family:Bahnschrift;
+    font-family: 'Bahnschrift Regular';
     color: white;
 }
 
 h2 {
-    font-family:Bahnschrift;
+    font-family: 'Bahnschrift Regular';
     color: white;
 }
 
 h3 {
-    font-family:Bahnschrift;
+    font-family: 'Bahnschrift Regular';
     color: white;
 }
 
 p {
-    font-family:Bahnschrift;
+    font-family: 'Bahnschrift Regular';
     color: white;
 }
 
 a {
-    font-family:Bahnschrift;
+    font-family: 'Bahnschrift Regular';
     color: white;
 }
 @font-face {
