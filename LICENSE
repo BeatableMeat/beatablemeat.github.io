@@ -1,33 +1,6 @@
-# BEATABLE MEAT PORTAL
-Since we don't want to spend money in the Beatable Meat project, and the main website's link is very long, we decided to make this website hosted on Github.
+APACHE LICENSE VERSION 2.0, JANUARY 2004 (SLIGHTLY MODIFIED BY HEATWAVE STUDIOS) | http://www.apache.org/licenses/
 
-# POSTING IN THE ISSUES PAGE
-Please note that the issues page is not justs for literal *issues*, but you can request something to be added to one of the sites. One of the moderators of the repository will add a label to your post to identify what it is.
-
-## Site codes
-If you do not include a site code at the start of the title of your post to show what website you're posting the issue for, your post will be closed and given the label `invalid` and will you have to edit the post. Once it is corrected, a moderator will re-open the post.
-
-### The site codes are the following:
-- `[BM]` — Beatable Meat
-- `[Portal]` — Beatable Meat Portal (except for the Beatable Games HTML subpage)
-- `[BG]` — Beatable Games
-- `[BGHTM]` — Beatable Games HTML
-- `[GitHub]` — The Beatable Meat Portal GitHub repository
-- `[BM2020]` — The Bruh-o-Meter 2020 website
-- `[Flash]` — glitchgod's Flash Repo
-- `[BS]` — Beatable Scripts
-- `[BSP]` — Beatable Screenplays
-# LICENSE
-## SUMMARY
-The "Portal Website SDK Base" is Copyright © 2020 Heatwave Studios.
-The license below tells you that you can use the "Portal Website SDK Base" as base code for your own "portal" website, including for commercial use, but not for trademark use.
-
-## THE AGREEMENT
-By cloning, modifying and/or distrubuting this repository, you AGREE to the below license. If you wish to be better safe than sorry, please read the license carefully before you clone this repo.
-
-### APACHE LICENSE VERSION 2.0, JANUARY 2004 (SLIGHTLY MODIFIED BY HEATWAVE STUDIOS) | http://www.apache.org/licenses/
-
-#### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
    1. Definitions.
 
@@ -200,8 +173,8 @@ By cloning, modifying and/or distrubuting this repository, you AGREE to the belo
 
    10. Any repository that uses this template MUST include this license and make sure it is up-to-date. The developer of a repository that uses this must 'stay-tuned' to this license regularly in case it updates.
 
-##### END OF TERMS AND CONDITIONS
-   Copyright © 2020 Heatwave Studios
+    END OF TERMS AND CONDITIONS
+   Copyright � 2020 Heatwave Studios
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
