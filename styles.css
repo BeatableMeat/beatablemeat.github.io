@@ -38,6 +38,7 @@ p {
 a {
     font-family: 'Bahnschrift Regular';
     color: white;
+    text-align: center;
 }
 /* Fonts */
 @font-face {
