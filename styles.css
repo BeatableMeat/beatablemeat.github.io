@@ -5,6 +5,7 @@
 /* 
     ALL HTML FILES WILL USE THESE STYLES DEFINED HERE UNLESS STATED OTHERWISE IN THE HTML FILE ITSELF.
 */
+/* Font definers */
 body {
     font-family: 'Bahnschrift Regular';
     background-color: #757575;
@@ -39,6 +40,7 @@ a {
     color: white;
     text-align: center;
 }
+/* Fonts */
 @font-face {
 font-family: 'Bahnschrift Regular';
 font-style: normal;
