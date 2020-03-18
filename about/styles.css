@@ -9,35 +9,41 @@
 body {
     font-family: 'Bahnschrift Regular';
     background-color: #757575;
+    font-size: 24px;
 }
 
 h1 {
     font-family: 'Bahnschrift Regular';
     color: white;
     text-align: center;
+    font-size: 24px;
 }
 
 h2 {
     font-family: 'Bahnschrift Regular';
     color: white;
     text-align: center;
+    font-size: 24px;
 }
 
 h3 {
     font-family: 'Bahnschrift Regular';
     color: white;
     text-align: center;
+    font-size: 24px;
 }
 
 p {
     font-family: 'Bahnschrift Regular';
     color: white;
+    font-size: 24px;
 }
 
 a {
     font-family: 'Bahnschrift Regular';
     color: white;
     text-align: center;
+    font-size: 24px;
 }
 /* Fonts */
 @font-face {
