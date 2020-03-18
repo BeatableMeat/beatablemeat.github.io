@@ -9,7 +9,6 @@
 body {
     font-family: 'Bahnschrift Regular';
     background-color: #757575;
-    text-align: center;
 }
 
 h1 {
@@ -33,7 +32,6 @@ h3 {
 p {
     font-family: 'Bahnschrift Regular';
     color: white;
-    text-align: center;
 }
 
 a {
