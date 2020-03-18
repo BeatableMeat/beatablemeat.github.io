@@ -4,7 +4,7 @@ Since we don't want to spend money in the Beatable Meat project, and the main we
 - Beatable Meat Portal
 - Beatable Games
 - Beatable Screenplays
-- GlitchGod's Flash Repo _(semi-hosted on **Beatable Games,** is in sync with [GlitchGod's Flash Repo's original site](https://sites.google.com/view/flashrepo)_
+- GlitchGod's Flash Repo _(semi-hosted on **Beatable Games,** is in sync with [GlitchGod's Flash Repo's original site](https://sites.google.com/view/flashrepo))_
 
 # POSTING IN THE ISSUES PAGE
 Please note that the issues page is not justs for literal *issues*, but you can request something to be added to one of the sites. One of the moderators of the repository will add a label to your post to identify what it is.
@@ -14,7 +14,7 @@ If you do not include a site code at the start of the title of your post to show
 
 ### The site codes are the following:
 - `[BM]` — Beatable Meat
-- `[Portal]` — Beatable Meat Portal (except for the Beatable Games HTML subpage)
+- `[Portal]` — Beatable Meat Portal _(except for the Beatable Games HTML subpage and Beatable Screenplays)_
 - `[BG]` — Beatable Games
 - `[BGHTM]` — Beatable Games HTML
 - `[GitHub]` — The Beatable Meat Portal GitHub repository
