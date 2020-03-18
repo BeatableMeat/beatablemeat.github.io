@@ -8,29 +8,35 @@
 body {
     font-family:Arial;
     background-color: #0703fc;
+    text-align: center;
 }
 
 h1 {
     font-family:Arial;
     color: white;
+    text-align: center;
 }
 
 h2 {
     font-family:Arial;
     color: white;
+    text-align: center;
 }
 
 h3 {
     font-family:Arial;
     color: white;
+    text-align: center;
 }
 
 p {
     font-family:Arial;
     color: white;
+    text-align: center;
 }
 
 a {
     font-family:Arial;
     color: white;
+    text-align:center;
 }
