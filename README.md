@@ -25,7 +25,7 @@ If you do not include a site code at the start of the title of your post to show
 # LICENSE
 ## SUMMARY
 The "Portal Website SDK Base" is Copyright © 2020 Heatwave Studios.
-The license below tells you that you can use the "Portal Website SDK Base" as base code for your own "portal" website, including for commercial use, but not for trademark use.
+The license below tells you that you can use the "Portal Website SDK Base" as base code for your own "portal" website, including for commercial use, but not for trademark use. Also included is the BeatableMeat.GitHub.IO license. 
 
 ## THE AGREEMENT
 By cloning, modifying and/or distrubuting this repository, you AGREE to the below license. If you wish to be better safe than sorry, please read the license carefully before you clone this repo.
@@ -219,3 +219,7 @@ By cloning, modifying and/or distrubuting this repository, you AGREE to the belo
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+## BEATABLEMEAT.GITHUB.IO LICENSE
+You are allowed to clone, modify and redistribute this repository in any way, but only for free. 
+Not all the content in this repository is owned by The Phoenix Project and all rights go to their respective owners. 
