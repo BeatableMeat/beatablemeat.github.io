@@ -7,37 +7,37 @@
 */
 /* Font definers */
 body {
-    font-family: 'Bahnschrift Regular';
+    font-family: 'Comic Sans MS';
     background-color: #07fc03;
     text-align: center;
 }
 
 h1 {
-    font-family: 'Bahnschrift Regular';
+    font-family: 'Comic Sans MS';
     color: black;
     text-align: center;
 }
 
 h2 {
-    font-family: 'Bahnschrift Regular';
+    font-family: 'Comic Sans MS';
     color: black;
     text-align: center;
 }
 
 h3 {
-    font-family: 'Bahnschrift Regular';
+    font-family: 'Comic Sans MS';
     color: black;
     text-align: center;
 }
 
 p {
-    font-family: 'Bahnschrift Regular';
+    font-family: 'Comic Sans MS';
     color: black;
     text-align: center;
 }
 
 a {
-    font-family: 'Bahnschrift Regular';
+    font-family: 'Comic Sans MS';
     color: white;
     text-align: center;
 }
