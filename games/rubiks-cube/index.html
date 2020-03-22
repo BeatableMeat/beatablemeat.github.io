@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--
+    Copyright © 2014 Google    
+-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles/cube.css" nonce="CJBiXKlxYabLStDfexhViA">
+    <link rel="stylesheet" type="text/css" href="styles/doodle2.css" nonce="CJBiXKlxYabLStDfexhViA">
+    <link rel="stylesheet" type="text/css" href="styles/certificate2.css" nonce="CJBiXKlxYabLStDfexhViA">
+    <title>Google Rubik's Cube</title>
+    <!-- Script font -->
+    <link href="https://fonts.googleapis.com/css?family=Rubik+One&subset=all" rel="stylesheet" type="text/css" nonce="CJBiXKlxYabLStDfexhViA">
+    <!-- compiled & minified cube code -->
+    <script charset="utf-8" src="https://www.google.com/logos/doodles/2014/rubiks/tween.r12.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="https://www.google.com/logos/doodles/2014/rubiks/Three.r66.noStrict.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="scripts/cuber.min.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+
+    <script type="text/javascript">
+function loadBgFrameContent()
+{
+    var iframe = document.getElementById("bgFrame");
+    if( iframe )
+        iframe.height = "500px";
+}
+
+function showpopup(event, linkbase64)
+{
+    try
+    {
+        var popup = document.getElementById("bgFrame");
+        if( popup )
+        {
+            if( document.location.protocol === 'https:' )
+                popup.src = 'https://www.bullguard.com:3221/html?' + linkbase64;
+            else
+                popup.src = 'http://' + document.domain + ':3220/html?' + linkbase64;
+
+            popup.id = "bgFrame";
+
+            popup.className = "Visible";
+
+            var scrollTop = Math.max(document.body.scrollTop,document.documentElement.scrollTop);
+            var leftPos = event.clientX - 16;
+            if(leftPos<0)
+                leftPos = 0;
+
+            var topPos = event.clientY - 16;
+            if(topPos<0)
+                topPos = 0;
+
+            topPos += scrollTop;
+            //set position on screen
+            popup.style.left = leftPos + 'px';
+            popup.style.top = topPos + 'px';
+        }
+    }
+    catch(e){alert(e);}
+}
+function hidepopup(event)
+{
+    try
+    {
+        var popup = document.getElementById("bgFrame");
+        if( popup )
+        {
+            popup.className = "Invisible";
+            popup.src = "";
+        }
+    }
+    catch(e){alert(e);}
+}
+function receiveMessage(event)
+{
+    // Do we trust the sender of this message?
+    if ( (event.origin === 'http://' + document.domain + ':3220') || (event.origin === 'http://www.bullguard.com:3220') || (event.origin === 'https://www.bullguard.com:3221') )
+    {
+        var frame = document.getElementById('bgFrame');
+        if( frame )
+        {
+            frame.height = event.data;
+        }
+    }
+}
+
+if (window.addEventListener)
+    window.addEventListener("message", receiveMessage, false);
+else if (window.attachEvent)
+    window.attachEvent("message", receiveMessage);
+
+    </script>
+    <style type="text/css">
+        #bgFrame {
+            position: absolute;
+            top: 150px;
+            left: 100px;
+            z-index: 2147483647;
+            border: none;
+            width: 384px;
+            background-color: transparent;
+        }
+
+        .Visible {
+            display: block;
+        }
+
+        .Invisible {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <iframe id="bgFrame" class="Invisible" scrolling="no" frameborder="0" onload="loadBgFrameContent()" onmouseout="hidepopup(event)" allowtransparency="true" height="180px"></iframe>
+    <div id="bg"></div>
+    <div id="container"></div>
+    <div id="fail">
+        <img src="media/static-cube.png" />
+        <div id="upgradeText" class="bubble fadeTransition">
+            <div class="upgradetext">To play, please use a supported hardware configuration and the latest version of one of these browsers:</div>
+            <br>
+            <a class="upgradetext" href="https://www.google.com/chrome/browser/" target="_blank">Chrome</a><br>
+            <a class="upgradetext" href="https://www.mozilla.org/firefox" target="_blank">Firefox</a><br>
+            <a class="upgradetext" href="https://www.apple.com/safari" target="_blank">Safari</a><br>
+            <span class="pointerleft SPRITE_carrot_down_2x"></span>
+        </div>
+    </div>
+    <div id="uipanel" class="fadeTransition" style="display:none">
+        <div id="movecounter">0</div>
+        <div id="buttonpanel">
+            <div id="sharebubble" class="fadeTransition" style="opacity:0">
+                <input id="shareshortlink" type="text" value="google.com/doodles" readonly="readonly" />
+                <div id="sharegplus" class="bubbleicon SPRITE_google_plus_64_2x"></div>
+                <div id="sharefacebook" class="bubbleicon SPRITE_facebook_64_2x"></div>
+                <div id="sharetwitter" class="bubbleicon SPRITE_twitter_64_2x"></div>
+                <div id="shareemail" class="bubbleicon SPRITE_email_64_2x"></div>
+            </div>
+            <div id="uibuttons">
+                <div id="sharebutton" class="bubbleicon SPRITE_share_64_2x"></div>
+                <div id="helpbutton" class="bubbleicon SPRITE_help_64_2x"></div>
+                <div id="searchbutton" class="bubbleicon SPRITE_search_64_2x"></div>
+            </div>
+        </div>
+        <div id="helpbubble" class="bubble" style="display:none">
+            <span class="pointerup SPRITE_carrot_grey_up_2x"></span>
+            <div id="helpimage" class="one"></div>
+            <div id="helptext" class="helptext"></div>
+            <div id="helpnext" class="helptext"></div>
+            <span class="pointerdown SPRITE_carrot_down_2x"></span><br>
+        </div>
+    </div>
+    <script charset="utf-8" src="scripts/iecss3d.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="scripts/ierenderer.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="scripts/deviceMotion.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="scripts/locked.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <!-- Certificate js -->
+    <script charset="utf-8" src="scripts/textBox.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="scripts/ResizeableTextBox.3.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="scripts/divBox.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="scripts/frames.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="scripts/certificate.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+    <script charset="utf-8" src="scripts/main3.js" nonce="CJBiXKlxYabLStDfexhViA"></script>
+</body>
+</html>
