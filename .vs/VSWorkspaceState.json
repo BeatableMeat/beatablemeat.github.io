@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\screenplays",
-    "\\screenplays\\the-room",
-    "\\yoda"
+    "\\games",
+    "\\games\\rubiks-cube\\scripts",
+    "\\games\\rubiks-cube\\styles",
+    "\\screenplays\\the-room"
   ],
-  "SelectedNode": "\\screenplays\\shrek",
+  "SelectedNode": "\\games\\index.html",
   "PreviewInSolutionExplorer": false
 }
