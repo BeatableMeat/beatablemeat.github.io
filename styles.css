@@ -41,6 +41,12 @@ a {
     color: white;
     text-align: center;
 }
+
+footer {
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
 /* Fonts */
 @font-face {
 font-family: 'Bahnschrift Regular';
