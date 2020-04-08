@@ -1,0 +1,42 @@
+/*
+    Beatable Screenplays STYLES definer file. Written by https://github.com/sabian-heatwave for Beatable Screenplays @ The Phoenix Project
+        Copyright © 2020 The Phoenix Project
+*/
+/* 
+    ALL HTML FILES WILL USE THESE STYLES DEFINED HERE UNLESS STATED OTHERWISE IN THE HTML FILE ITSELF.
+*/
+body {
+    font-family:Arial;
+    background-color: #0703fc;
+    text-align: center;
+}
+
+h1 {
+    font-family:Arial;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-family:Arial;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family:Arial;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family:Arial;
+    color: white;
+    text-align: center;
+}
+
+a {
+    font-family:Arial;
+    color: white;
+    text-align:center;
+}

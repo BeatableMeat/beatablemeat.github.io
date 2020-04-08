@@ -1,0 +1,47 @@
+/*
+    Yoda Shrine STYLES definer file. Written by https://github.com/sabian-heatwave for Yoda Shrine @ The Phoenix Project
+        Copyright © 2020 The Phoenix Project
+*/
+/* 
+    ALL HTML FILES WILL USE THESE STYLES DEFINED HERE UNLESS STATED OTHERWISE IN THE HTML FILE ITSELF.
+*/
+/* Font definers */
+body {
+    font-family: 'Comic Sans MS';
+    background-color: #07fc03;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Comic Sans MS';
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Comic Sans MS';
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Comic Sans MS';
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: 'Comic Sans MS';
+    color: black;
+    text-align: center;
+}
+
+a {
+    font-family: 'Comic Sans MS';
+    color: white;
+    text-align: center;
+}
+
+marquee {
+    font-family: 'Comic Sans MS';
+    color: white;
