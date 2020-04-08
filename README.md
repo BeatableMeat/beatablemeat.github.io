@@ -1,5 +1,5 @@
 # Please, If You Can, Stay at Home.
-# BEATABLE MEAT PORTAL | CURRENT VERSION: `0.9.7.1`
+# BEATABLE MEAT PORTAL | CURRENT VERSION: `0.9.7.2`
 Since we don't want to spend money in the Beatable Meat project, and the main website's link is very long, we decided to make this website hosted on Github. We host lots of content here.
 ## CONTENT THAT IS HOSTED HERE
 - Beatable Meat Portal
