@@ -6,6 +6,8 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/interaction@v1
+      with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Thank you for creating your issue! A moderator (their username will end with _-heatwave_ or _-phoenix_) will label your issue soon and make any changes to it if needed.'
-        pr-message: 'Thank you for creating your pull request! The official @BeatableMeat account will take a look at this soon. If it is a good enough feature, it will be merged.'
+        issue-message: 'Thank you for submitting your Issue. A Collaborator will label this and have a look soon.'
+        pr-message: 'Thank you for submitting your Pull Request. A Collaborator will label this and have a look soon.'
