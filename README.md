@@ -1,5 +1,4 @@
-# Please, If You Can, Stay at Home.
-# BEATABLE MEAT PORTAL | CURRENT VERSION: `0.9.9`
+# BEATABLE MEAT PORTAL | CURRENT VERSION: `0.10`
 Since we don't want to spend money in the Beatable Meat project, and the main website's link is very long, we decided to make this website hosted on Github. We host lots of content here.
 ## CONTENT THAT IS HOSTED HERE
 - Beatable Meat Portal
@@ -8,7 +7,7 @@ Since we don't want to spend money in the Beatable Meat project, and the main we
 - GlitchGod's Flash Repo _(semi-hosted on **Beatable Games,** is in sync with [GlitchGod's Flash Repo's original site](https://sites.google.com/view/flashrepo))_
 
 # POSTING IN THE ISSUES PAGE
-Please note that the issues page is not justs for literal *issues*, but you can request something to be added to one of the sites. One of the moderators of the repository will add a label to your post to identify what it is.
+Please note that the issues page is not just for literal *issues*, but you can request something to be added to one of the sites. One of the moderators of the repository will add a label to your post to identify what it is.
 
 ## Site codes
 If you do not include a site code at the start of the title of your post to show what website you're posting the issue for, your post will be closed and given the label `invalid` and will you have to edit the post. Once it is corrected, a moderator will re-open the post.
