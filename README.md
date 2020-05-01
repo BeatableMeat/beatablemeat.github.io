@@ -14,6 +14,7 @@ Please note that the issues page is not justs for literal *issues*, but you can 
 If you do not include a site code at the start of the title of your post to show what website you're posting the issue for, your post will be closed and given the label `invalid` and will you have to edit the post. Once it is corrected, a moderator will re-open the post.
 
 ### The site codes are the following:
+- `[ALL]` — Everything
 - `[BM]` — Beatable Meat
 - `[Portal]` — Beatable Meat Portal _(except for the Beatable Games HTML subpage and Beatable Screenplays)_
 - `[BG]` — Beatable Games
