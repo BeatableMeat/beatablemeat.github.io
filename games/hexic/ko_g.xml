@@ -1,0 +1,938 @@
+<!-- HexicDeluxe Localization Strings -->
+<HexicDeluxe>
+  <bonus_title>
+    <text _locID="bonus_title"><!-- _locComment_text="" -->보너스</text>
+    <size _locID="bonus_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="bonus_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>  
+  </bonus_title>
+  <combo_title>
+    <text _locID="combo_title"><!-- _locComment_text="" -->다음 레벨까지 남은 개수</text>
+    <size _locID="combo_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="combo_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </combo_title>
+  <level_title>
+    <text _locID="level_title"><!-- _locComment_text="" -->레벨</text>
+    <size _locID="level_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="level_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </level_title>
+  <score_title>
+    <text _locID="score_title"><!-- _locComment_text="" -->점수</text>
+    <size _locID="score_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="score_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </score_title>
+  <time_title>
+    <text _locID="time_title"><!-- _locComment_text="" -->시간</text>
+    <size _locID="time_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="time_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </time_title>
+  <pausebutton_pause>
+    <text _locID="time_title"><!-- _locComment_text="" -->일시 중지</text>
+    <size _locID="time_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="time_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </pausebutton_pause>
+
+
+  <gameend_gameover>
+    <text _locID="GameOverHeader"><!-- _locComment_text="" -->게임 종료</text>
+    <size _locID="GameOverHeaderSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="GameOverHeaderFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameend_gameover>
+  <gameend_youwin>
+    <text _locID="YouWinHeader"><!-- _locComment_text="" -->이겼습니다!</text>
+    <size _locID="YouWinHeaderSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="YouWinHeaderFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameend_youwin>
+
+  <gameendinfo_bomb>
+    <text _locID="Wait"><!-- _locComment_text="" -->폭탄이 터졌습니다!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameendinfo_bomb>
+  <gameendinfo_time>
+    <text _locID="Wait"><!-- _locComment_text="" -->시간이 초과되었습니다!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameendinfo_time>
+  <gameendinfo_pearlcluster>
+    <text _locID="Wait"><!-- _locComment_text="" -->흑진주 클러스터!!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameendinfo_pearlcluster>
+  <gameendinfo_pearlflower>
+    <text _locID="Wait"><!-- _locComment_text="" -->흑진주 꽃!!!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameendinfo_pearlflower>
+  <gameendinfo_nomoves>
+    <text _locID="GameEndInfo_NoMoves"><!-- _locComment_text="" -->일치시킬 수 있는 클러스터가 더 이상 없습니다!!</text>
+    <size _locID="GameEndInfo_NoMovesSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="GameEndInfo_NoMovesFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameendinfo_nomoves> 
+  <gameendinfo_allremoved>
+    <text _locID="gameendinfo_allremoved"><!-- _locComment_text="" -->모든 조각을 없앴습니다!</text>
+    <size _locID="gameendinfo_allremovedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="gameendinfo_allremovedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameendinfo_allremoved> 
+  <gameendinfo_survived>
+    <text _locID="gameendinfo_survived"><!-- _locComment_text="" -->서바이벌에서 승리했습니다!</text>
+    <size _locID="gameendinfo_survivedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="gameendinfo_survivedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameendinfo_survived> 
+
+  <gameend_piececount>
+    <text _locID="Wait"><!-- _locComment_text="" -->총 조각 수:</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameend_piececount>
+  <gameend_score>
+    <text _locID="Wait"><!-- _locComment_text="" -->최종 점수:</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameend_score>
+  <gameend_time>
+    <text _locID="GameEndTime"><!-- _locComment_text="" -->총 시간:</text>
+    <size _locID="GameEndTimeSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="GameEndTimeFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gameend_time>
+
+
+
+  <plume_levelup>
+    <text _locID="Wait"><!-- _locComment_text="" -->레벨 업!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </plume_levelup>
+
+
+  <pause_header>
+    <text _locID="Wait"><!-- _locComment_text="" -->일시 중지</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->36</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </pause_header>
+
+
+
+  <nomoves_text>
+    <text _locID="Wait"><!-- _locComment_text="" -->일치시킬 수 있는 클러스터가 더 이상 없습니다.
+새로운 조각을 채웁니다.</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </nomoves_text>
+
+
+
+  <popup_continueButton>
+    <text _locID="Wait"><!-- _locComment_text="" -->계속</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </popup_continueButton>
+
+
+
+	<playagain_button>
+		<text _locID="playagain_button"><!-- _locComment_text="" -->계속</text>
+		<size _locID="playagain_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="playagain_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</playagain_button>
+
+
+  <modeButton_normal>
+    <text _locID="Wait"><!-- _locComment_text="" -->마라톤 모드</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </modeButton_normal>
+  <modeButton_timed>
+    <text _locID="Wait"><!-- _locComment_text="" -->시간 제한 모드</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </modeButton_timed>
+  <modeButton_survival>
+    <text _locID="Wait"><!-- _locComment_text="" -->서바이벌 모드</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </modeButton_survival>
+  <menuButton_resume>
+    <text _locID="menuButton_resume"><!-- _locComment_text="" -->게임 계속하기</text>
+    <size _locID="menuButton_resumeSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_resumeFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </menuButton_resume>
+  <menuButton_options>
+    <text _locID="menuButton_options"><!-- _locComment_text="" -->옵션</text>
+    <size _locID="menuButton_optionsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_optionsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </menuButton_options>
+  <menuButton_leaderboard>
+    <text _locID="menuButton_highscores"><!-- _locComment_text="" -->순위표</text>
+    <size _locID="menuButton_highscoresSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_highscoresFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </menuButton_leaderboard>
+  <menuButton_tutorial>
+    <text _locID="menuButton_tutorial"><!-- _locComment_text="" -->튜토리얼과 팁</text>
+    <size _locID="menuButton_tutorialSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_tutorialFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </menuButton_tutorial>
+  <menuButton_exit>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->아케이드 메뉴로 돌아가기</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </menuButton_exit>
+  <menuButton_exittodash>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->끝내기</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </menuButton_exittodash>
+  <menuButton_exitpause>
+    <text _locID="Wait"><!-- _locComment_text="" -->주 메뉴</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </menuButton_exitpause>
+  <menuButton_achievements>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->도전 과제</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </menuButton_achievements>
+
+
+
+	<header_difficulty_marathon>
+		<text _locID="header_difficulty_marathon"><!-- _locComment_text="" -->마라톤 모드 난이도 선택</text>
+		<size _locID="header_difficulty_marathonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_marathonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</header_difficulty_marathon>
+	<header_difficulty_timed>
+		<text _locID="header_difficulty_timed"><!-- _locComment_text="" -->시간 제한 모드 난이도 선택</text>
+		<size _locID="header_difficulty_timedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_timedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</header_difficulty_timed>
+	<header_difficulty_survival>
+		<text _locID="header_difficulty_survival"><!-- _locComment_text="" -->서바이벌 모드 난이도 선택</text>
+		<size _locID="header_difficulty_survivalSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_survivalFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</header_difficulty_survival>
+	<difficultyButton_easy>
+		<text _locID="difficultyButton_easy"><!-- _locComment_text="" -->쉬움</text>
+		<size _locID="difficultyButton_easySize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_easyFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</difficultyButton_easy>
+	<difficultyButton_medium>
+		<text _locID="difficultyButton_medium"><!-- _locComment_text="" -->보통</text>
+		<size _locID="difficultyButton_mediumSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_mediumFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</difficultyButton_medium>
+	<difficultyButton_hard>
+		<text _locID="difficultyButton_hard"><!-- _locComment_text="" -->어려움</text>
+		<size _locID="difficultyButton_hardSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_hardFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</difficultyButton_hard>
+	<difficultyButton_cancel>
+		<text _locID="difficultyButton_cancel"><!-- _locComment_text="" -->뒤로</text>
+		<size _locID="difficultyButton_cancelSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_cancelFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</difficultyButton_cancel>
+
+
+	<options_header>
+		<text _locID="options_header"><!-- _locComment_text="" -->게임 옵션</text>
+		<size _locID="options_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->24</size>
+		<font _locID="options_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</options_header>
+	<optionsButton_defaults>
+		<text _locID="optionsButton_defaults"><!-- _locComment_text="" -->기본 설정 복원</text>
+		<size _locID="optionsButton_defaultsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_defaultsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</optionsButton_defaults>
+	<optionsButton_credits>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->제작진</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</optionsButton_credits>
+	<optionsButton_controls>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->컨트롤</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</optionsButton_controls>
+	<optionsButton_about>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->정보</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</optionsButton_about>
+	<optionsButton_return>
+		<text _locID="optionsButton_return"><!-- _locComment_text="" -->완료</text>
+		<size _locID="optionsButton_returnSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_returnFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</optionsButton_return>
+	<optionsText_sfx>
+		<text _locID="optionsText_sfx"><!-- _locComment_text="" -->SFX 볼륨</text>
+		<size _locID="optionsText_sfxSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsText_sfxFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</optionsText_sfx>
+	<optionsText_music>
+		<text _locID="optionsText_music"><!-- _locComment_text="" -->음악 볼륨</text>
+		<size _locID="optionsText_musicSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsText_musicFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</optionsText_music>
+	<optionsText_patterns>
+		<text _locID="optionsText_patterns"><!-- _locComment_text="" -->패턴 표시</text>
+		<size _locID="optionsText_patternsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsText_patternsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</optionsText_patterns>
+
+
+	<credits_header>
+		<text _locID="credits_header"><!-- _locComment_text="" -->제작진</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</credits_header>
+	<credits_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->뒤로</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</credits_back>
+	<controls_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->뒤로</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</controls_back>
+	<about_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->뒤로</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</about_back>
+
+	<highscores_beginner>
+		<text _locID="highscores_beginner"><!-- _locComment_text="" -->쉬움</text>
+		<size _locID="highscores_beginnerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_beginnerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</highscores_beginner>
+	<highscores_intermediate>
+		<text _locID="highscores_intermediate"><!-- _locComment_text="" -->보통</text>
+		<size _locID="highscores_intermediateSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_intermediateFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</highscores_intermediate>
+	<highscores_expert>
+		<text _locID="highscores_expert"><!-- _locComment_text="" -->어려움</text>
+		<size _locID="highscores_expertSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_expertFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</highscores_expert>
+
+	<nameEntry_header>
+		<text _locID="nameEntry_header"><!-- _locComment_text="" -->새로운 최고 점수</text>
+		<size _locID="nameEntry_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="nameEntry_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</nameEntry_header>
+	<nameEntry_newscore>
+		<text _locID="nameEntry_body1"><!-- _locComment_text="" -->축하합니다! Xbox Live 순위표에 최고 점수를 기록했습니다!</text>
+		<size _locID="nameEntry_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="nameEntry_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</nameEntry_newscore>
+	<nameEntry_signin>
+		<text _locID="nameEntry_body1"><!-- _locComment_text="" -->축하합니다! 최고 점수를 기록했습니다! 점수를 등록하려면 Xbox 가이드 단추를 눌러 Xbox Live에 로그인하세요.</text>
+		<size _locID="nameEntry_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="nameEntry_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</nameEntry_signin>	
+
+	<tutorial_header>
+		<text _locID="tutorial_header"><!-- _locComment_text="" -->Hexic 진행 방법</text>
+		<size _locID="tutorial_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="tutorial_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_header>
+	<tutorial_marathon_text>
+		<text _locID="tutorial_marathon_text"><!-- _locComment_text="" -->전형적인 Hexic 모드입니다. 흑진주로 이루어진 클러스터를 만들어 보세요.</text>
+		<size _locID="tutorial_marathon_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_marathon_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_marathon_text>
+	<tutorial_timed_text>
+		<text _locID="tutorial_timed_text"><!-- _locComment_text="" -->제한된 시간 동안 얼마나 많은 점수를 얻을 수 있는지 도전해 보세요.</text>
+		<size _locID="tutorial_timed_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_timed_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_timed_text>
+	<tutorial_survival_text>
+		<text _locID="tutorial_survival_text"><!-- _locComment_text="" -->주의 깊게 클러스터를 움직여 최대한 많은 조각을 없애 보세요.</text>
+		<size _locID="tutorial_survival_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_survival_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_survival_text>
+	<tutorial_tips_text>
+		<text _locID="tutorial_tips_text"><!-- _locComment_text="" -->Hexic의 고수가 되기 위한 비결과 팁을 배워 보세요.</text>
+		<size _locID="tutorial_tips_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_tips_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_tips_text>
+	<tutorial_marathon_button>
+		<text _locID="tutorial_marathon_button"><!-- _locComment_text="" -->마라톤</text>
+		<size _locID="tutorial_marathon_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_marathon_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_marathon_button>
+	<tutorial_timed_button>
+		<text _locID="tutorial_timed_button"><!-- _locComment_text="" -->시간 제한</text>
+		<size _locID="tutorial_timed_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_timed_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_timed_button>
+	<tutorial_survival_button>
+		<text _locID="tutorial_survival_button"><!-- _locComment_text="" -->서바이벌</text>
+		<size _locID="tutorial_survival_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_survival_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_survival_button>
+	<tutorial_tips_button>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->팁</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_tips_button>
+	<tutorial_back_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->뒤로</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_back_text>
+	<tutorial_next_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->다음 페이지</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_next_text>	
+	<tutorial_backmenu_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->메뉴</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tutorial_backmenu_text>	
+
+	<mara_hdr>
+		<text _locID="mara_hdr"><!-- _locComment_text="" -->마라톤 모드</text>
+		<size _locID="mara_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="mara_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</mara_hdr>
+	<mara_1_body1>
+		<text _locID="mara_1_body1"><!-- _locComment_text="" -->세 조각으로 이루어진 클러스터를 선택하고 A 단추를 누르면 클러스터가 시계 방향으로 회전하고 X 단추를 누르면 시계 반대 방향으로 회전합니다. 트리거를 당겨도 회전합니다. 클러스터 중의 한 조각이 인접한 다른 두 조각의 색깔과 일치할 때까지 클러스터가 회전하며 일치하는 조각이 없을 때는 원래의 위치로 되돌아 옵니다.</text>
+		<size _locID="mara_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</mara_1_body1>
+	<mara_1_body2>
+		<text _locID="mara_1_body2"><!-- _locComment_text="" -->클러스터를 회전시켜 인접한 세 개의 조각이 같은 색으로 일치하면 그 조각들이 보드에서 사라지고 위에 있던 조각들이 떨어져 그 자리를 메웁니다.</text>
+		<size _locID="mara_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</mara_1_body2>
+	<mara_2_body1>
+		<text _locID="mara_2_body1"><!-- _locComment_text="" -->별 조각을 사용해 클러스터를 일치시키면 더 많은 점수를 얻습니다.</text>
+		<size _locID="mara_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</mara_2_body1>
+	<mara_2_body2>
+		<text _locID="mara_2_body2"><!-- _locComment_text="" -->폭탄에 주의하세요. 클러스터를 회전시킬 때마다 폭탄에 적힌 숫자가 줄어듭니다. 폭탄의 숫자가 0이 되기 전에 클러스터를 일치시켜 폭탄을 제거해야 합니다. 그렇지 않으면 게임이 종료됩니다.</text>
+		<size _locID="mara_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</mara_2_body2>
+	<mara_3_body1>
+		<text _locID="mara_3_body1"><!-- _locComment_text="" -->하나의 조각을 둘러싸고 있는 주위의 6개의 조각을 같은 색으로 일치시켜 꽃을 만들면 가운데 조각이 꽃별로 바뀌고 더 많은 점수를 얻을 수 있습니다. 또한 꽃별을 중심으로 6개의 조각을 하나의 클러스터로 회전시킬 수 있습니다.</text>
+		<size _locID="mara_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</mara_3_body1>
+	<mara_3_body2>
+		<text _locID="mara_3_body2"><!-- _locComment_text="" -->6개의 꽃별로 하나의 조각을 완전히 둘러싸면 꽃별이 사라지고 가운데 조각이 흑진주로 바뀝니다.</text>
+		<size _locID="mara_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</mara_3_body2>
+	<mara_3_body3>
+		<text _locID="mara_3_body3"><!-- _locComment_text="" -->흑진주로 클러스터를 만들거나 흑진주 꽃을 만들면 게임에서 승리합니다.</text>
+		<size _locID="mara_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</mara_3_body3>
+
+	<time_hdr>
+		<text _locID="time_hdr"><!-- _locComment_text="" -->시간 제한 모드</text>
+		<size _locID="time_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="time_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</time_hdr>
+	<time_1_body1>
+		<text _locID="time_1_body1"><!-- _locComment_text="" -->세 조각으로 이루어진 클러스터를 선택하고 A 단추를 누르면 클러스터가 시계 방향으로 회전하고 X 단추를 누르면 시계 반대 방향으로 회전합니다. 트리거를 당겨도 회전합니다. 클러스터 중의 한 조각이 인접한 다른 두 조각의 색깔과 일치할 때까지 클러스터가 회전하며 일치하는 조각이 없을 때는 원래의 위치로 되돌아 옵니다.</text>
+		<size _locID="time_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</time_1_body1>
+	<time_1_body2>
+		<text _locID="time_1_body2"><!-- _locComment_text="" -->클러스터를 회전시켜 인접한 세 개의 조각이 같은 색으로 일치하면 그 조각들이 보드에서 사라지고 위에 있던 조각들이 떨어져 그 자리를 메웁니다.</text>
+		<size _locID="time_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</time_1_body2>
+	<time_2_body1>
+		<text _locID="time_2_body1"><!-- _locComment_text="" -->타이머에 주의하세요! 일치하는 클러스터를 만들면 약간의 시간이 추가되지만 그렇지 못하면 시간이 점점 줄어듭니다.</text>
+		<size _locID="time_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</time_2_body1>
+	<time_2_body2>
+		<text _locID="time_2_body2"><!-- _locComment_text="" -->별 조각을 사용해 클러스터를 일치시키면 더 많은 점수를 얻습니다.</text>
+		<size _locID="time_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</time_2_body2>
+	<time_3_body1>
+		<text _locID="time_3_body1"><!-- _locComment_text="" -->한 조각을 둘러싸고 있는 주위의 6개의 조각을 같은 색으로 일치시키면 조각들이 사라지고 가운데 조각이 꽃별로 바뀌면서 제한 시간이 초기화 되어 기본 제한 시간이 좀더 늘어납니다.</text>
+		<size _locID="time_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</time_3_body1>
+
+	<surv_hdr>
+		<text _locID="surv_hdr"><!-- _locComment_text="" -->서바이벌 모드</text>
+		<size _locID="surv_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="surv_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_hdr>
+	<surv_1_body1>
+		<text _locID="surv_1_body1"><!-- _locComment_text="" -->세 조각으로 이루어진 클러스터를 선택하고 A 단추를 누르면 클러스터가 시계 방향으로 회전하고 X 단추를 누르면 시계 반대 방향으로 회전합니다. 트리거를 당겨도 회전합니다. 클러스터 중의 한 조각이 인접한 다른 두 조각의 색깔과 일치할 때까지 클러스터가 회전하며 일치하는 조각이 없을 때는 원래의 위치로 되돌아 옵니다.</text>
+		<size _locID="surv_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_1_body1>
+	<surv_1_body2>
+		<text _locID="surv_1_body2"><!-- _locComment_text="" -->클러스터를 회전시켜 인접한 세 개의 조각이 같은 색으로 일치하면 그 조각들이 보드에서 사라지고 위에 있던 조각들이 떨어져 그 자리를 메웁니다.</text>
+		<size _locID="surv_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_1_body2>
+	<surv_1_body3>
+		<text _locID="surv_1_body3"><!-- _locComment_text="" -->별 조각을 사용해 클러스터를 일치시키면 더 많은 점수를 얻습니다.</text>
+		<size _locID="surv_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_1_body3>
+	<surv_1_body4>
+		<text _locID="surv_1_body3"><!-- _locComment_text="" -->게임에서 승리하려면 보드의 모든 조각을 없애야 합니다.</text>
+		<size _locID="surv_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_1_body4>
+	<surv_2_body1>
+		<text _locID="surv_2_body1"><!-- _locComment_text="" -->다른 모드와는 달리 클러스터가 일치해 조각이 사라져도 더 이상 일치시킬 조각이 없을 때까지 다른 조각들이 추가되지 않습니다. 더 이상 일치시킬 조각이 없으면 남아 있는 조각들은 움직이지 못하는 상태로 고정되고 새로운 조각들이 빈 자리에 추가되어 다시 게임이 시작됩니다.</text>
+		<size _locID="surv_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_2_body1>
+	<surv_2_body2>
+		<text _locID="surv_2_body2"><!-- _locComment_text="" -->움직이지 못하는 고정된 조각들이 보드에 꽉 차면 게임이 종료되므로 주의하세요!</text>
+		<size _locID="surv_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_2_body2>
+	<surv_3_body1>
+		<text _locID="surv_3_body1"><!-- _locComment_text="" -->고정된 조각을 회전시킬 수는 없지만 일치된 클러스터를 만드는 데 이용할 수 있습니다.</text>
+		<size _locID="surv_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_3_body1>
+	<surv_3_body2>
+		<text _locID="surv_3_body2"><!-- _locComment_text="" -->별 조각으로 이루어진 클러스터를 만들면 그 주위의 고정된 조각들을 다시 움직일 수 있습니다.</text>
+		<size _locID="surv_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_3_body2>
+	<surv_3_body3>
+		<text _locID="surv_3_body3"><!-- _locComment_text="" -->꽃별을 만들면 꽃별과 같은 색깔의 모든 조각들이 보드에서 사라지고 고정된 모든 조각들을 다시 움직일 수 있습니다. </text>
+		<size _locID="surv_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</surv_3_body3>
+
+	<tip_hdr>
+		<text _locID="tip_hdr"><!-- _locComment_text="" -->HEXIC HD 팁</text>
+		<size _locID="tip_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="tip_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_hdr>
+	<tip_1_body1>
+		<text _locID="tip_1_body1"><!-- _locComment_text="" -->일반적인 팁</text>
+		<size _locID="tip_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_1_body1>
+	<tip_1_body2>
+		<text _locID="tip_1_body2"><!-- _locComment_text="" -->별 조각 세 개로 클러스터를 만들 때는 별 조각의 색깔이 같지 않아도 됩니다.</text>
+		<size _locID="tip_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_1_body2>
+	<tip_1_body3>
+		<text _locID="tip_1_body3"><!-- _locComment_text="" -->같은 색깔의 조각들이 거의 꽃 모양으로 이루어진 부분을 찾아 나머지 부분을 같은 색깔의 조각으로 일치시키면 완벽한 꽃 모양이 형성되고 꽃별이 생깁니다.</text>
+		<size _locID="tip_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_1_body3>
+	<tip_1_body4>
+		<text _locID="tip_1_body4"><!-- _locComment_text="" -->꽃 모양을 만들고자 하는 곳의 아래 부분에서는 가능하면 클러스터를 일치시키지 마세요. 그렇지 않으면 꽃 모양을 이루고 있던 조각들의 위치가 바뀌게 되어 꽃 모양을 만들 수 있는 기회를 잃게 됩니다.</text>
+		<size _locID="tip_1_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_1_body4>
+	<tip_2_body1>
+		<text _locID="tip_2_body1"><!-- _locComment_text="" -->일반적인 팁</text>
+		<size _locID="tip_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_2_body1>
+	<tip_2_body2>
+		<text _locID="tip_2_body2"><!-- _locComment_text="" -->조각들의 색깔을 구별하기 어렵다면 조각에 패턴을 표시할 수도 있습니다. 패턴을 표시하려면 옵션 메뉴의 패턴 표시 옵션을 활성화 시키면 됩니다.</text>
+		<size _locID="tip_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_2_body2>
+	<tip_3_body1>
+		<text _locID="tip_3_body1"><!-- _locComment_text="" -->마라톤 모드</text>
+		<size _locID="tip_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_3_body1>
+	<tip_3_body2>
+		<text _locID="tip_3_body2"><!-- _locComment_text="" -->꽃별이 보드 아래쪽으로 내려가지 않도록 주의하세요. 그렇지 않으면 꽃별을 사용해 흑진주를 만들기가 어려워 집니다.</text>
+		<size _locID="tip_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_3_body2>
+	<tip_3_body3>
+		<text _locID="tip_3_body3"><!-- _locComment_text="" -->낮은 레벨에서부터 꽃 모양을 만들어 보세요. 낮은 레벨에서는 조각들의 색깔이 다양하지 않기 때문에 쉽게 꽃 모양을 만들 수 있습니다.</text>
+		<size _locID="tip_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_3_body3>
+	<tip_3_body4>
+		<text _locID="tip_3_body4"><!-- _locComment_text="" -->폭탄을 즉시 제거하세요! 폭탄이 나타나면 무엇보다 먼저 폭탄부터 즉시 제거해야 합니다.</text>
+		<size _locID="tip_3_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_3_body4>
+	<tip_3_body5>
+		<text _locID="tip_3_body5"><!-- _locComment_text="" -->폭탄 아래 부분에 있는 조각들을 사용해 클러스터를 일치시키세요. 그러면 폭탄과 같은 색깔을 가진 두 개의 조각 근처로 폭탄이 이동할 확률이 조금 높아져 폭탄을 좀더 쉽게 제거할 수 있습니다.</text>
+		<size _locID="tip_3_body5Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body5Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_3_body5>
+	<tip_4_body1>
+		<text _locID="tip_4_body1"><!-- _locComment_text="" -->시간 제한 모드</text>
+		<size _locID="tip_4_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_4_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_4_body1>
+	<tip_4_body2>
+		<text _locID="tip_4_body2"><!-- _locComment_text="" -->시간 제한 모드에서는 최대한 빨리 클러스터의 색깔을 일치시켜야 합니다. 하지만 클러스터를 잘못 회전시킬 때마다 시간이 점점 더 줄어드니 주의해야 합니다!</text>
+		<size _locID="tip_4_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_4_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_4_body2>
+	<tip_4_body3>
+		<text _locID="tip_4_body3"><!-- _locComment_text="" -->마라톤 모드의 팁을 한번 더 확인하세요! 시간 제한 모드에서도 똑같이 활용할 수 있습니다.</text>
+		<size _locID="tip_4_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_4_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_4_body3>
+	<tip_5_body1>
+		<text _locID="tip_5_body1"><!-- _locComment_text="" -->서바이벌 모드</text>
+		<size _locID="tip_5_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_5_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_5_body1>
+	<tip_5_body2>
+		<text _locID="tip_5_body2"><!-- _locComment_text="" -->먼저 가장자리에 있는 조각부터 없애세요.</text>
+		<size _locID="tip_5_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_5_body2>
+	<tip_5_body3>
+		<text _locID="tip_5_body3"><!-- _locComment_text="" -->움직이지 못하는 고정된 조각들이 높이 쌓이지 않도록 주의하세요.</text>
+		<size _locID="tip_5_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_5_body3>
+	<tip_5_body4>
+		<text _locID="tip_5_body4"><!-- _locComment_text="" -->가능하면 움직이지 못하는 고정된 조각부터 먼저 없애세요.</text>
+		<size _locID="tip_5_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_5_body4>
+	<tip_5_body5>
+		<text _locID="tip_5_body5"><!-- _locComment_text="" -->별 조각으로 이루어진 클러스터를 만들면 그 클러스터 주위의 고정된 조각들을 다시 움직일 수 있게 됩니다.</text>
+		<size _locID="tip_5_body5Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body5Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_5_body5>
+	<tip_5_body6>
+		<text _locID="tip_5_body6"><!-- _locComment_text="" -->꽃 모양을 만들면 고정된 모든 조각들을 다시 움직일 수 있게 되고 꽃 모양 가운데에 있는 조각과 같은 색깔의 모든 조각들이 사라지게 됩니다.</text>
+		<size _locID="tip_5_body6Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body6Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+	</tip_5_body6>
+
+
+  <Tip_0_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->세 조각으로 이루어진 클러스터를 선택하고 A 단추를 누르면 클러스터가 시계 방향으로 회전하고 X 단추를 누르면 시계 반대 방향으로 회전합니다. 트리거를 당겨도 회전합니다. 클러스터 중의 한 조각이 인접한 다른 두 조각의 색깔과 일치할 때까지 클러스터가 회전하며 일치하는 조각이 없을 때는 원래의 위치로 되돌아 옵니다.</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Tip_0_Text>
+  <Tip_1_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->별 조각을 사용해 클러스터를 일치시키면 추가 점수를 얻을 수 있습니다.
+색깔에 관계 없이 세 개의 별 조각을 맞추면 어떤 보너스가 있는지 확인해 보세요.</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Tip_1_Text>
+  <Tip_2_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->폭탄에 주의하세요.
+클러스터를 회전시킬 때마다 폭탄에 적힌 숫자가 줄어듭니다. 폭탄의 숫자가 0이 되기 전에 클러스터를 일치시켜 폭탄을 제거해야 합니다. 그렇지 않으면 게임이 종료됩니다.</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Tip_2_Text>
+  <Tip_3_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->꽃 모양을 만들어 보너스 점수를 얻어 보세요!
+하나의 조각을 둘러싸고 있는 주위의 6개의 조각을 같은 색으로 일치시켜 꽃 모양을 만들면 가운데 조각이 꽃별로 변하면서 꽃별을 중심으로 6개의 조각을 하나의 클러스터로 회전시킬 수 있습니다.</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Tip_3_Text>
+  <Tip_4_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->하나 이상의 보너스 조각과 폭탄을 사용해 같은 색깔의 클러스터를 일치시키면 같은 색깔의 모든 조각들이 보드에서 사라집니다.</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Tip_4_Text>
+  <Tip_5_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->6개의 꽃별로 하나의 조각을 완전히 둘러싸면 꽃별이 사라지고 가운데 조각이 흑진주로 바뀝니다.</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Tip_5_Text>
+  <Tip_6_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->최종 레벨에 도달했습니다!
+흑진주를 사용하여 클러스터나 꽃을 만들면 게임에서 승리할 수 있습니다.</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Tip_6_Text>
+  <Tip_Survival_Text>
+    <text _locID="Tip_Survival_Text"><!-- _locComment_text="" -->게임에서 승리하려면 보드의 모든 조각을 없애야 합니다.
+없애지 못하고 남은 조각들은 움직이지 못하도록 고정되어 다음 레벨의 게임이 시작됩니다. 주변의 고정된 조각들을 다시 움직일 수 있도록 별 조각을 사용해 클러스터를 일치시켜 보세요.</text>
+    <size _locID="Tip_Survival_TextSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="Tip_Survival_TextFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Tip_Survival_Text>
+
+  <Leaderboard_Marathon_Text>
+    <text _locID=""><!-- _locComment_text="" -->마라톤</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_Marathon_Text>
+  <Leaderboard_Timed_Text>
+    <text _locID=""><!-- _locComment_text="" -->시간 제한</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_Timed_Text>
+  <Leaderboard_Survival_Text>
+    <text _locID=""><!-- _locComment_text="" -->서바이벌</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_Survival_Text>
+  <Leaderboard_Sort_Text>
+    <text _locID=""><!-- _locComment_text="" -->정렬 방식</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_Sort_Text>
+  <Leaderboard_FriendScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->친구</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_FriendScores_Text>
+  <Leaderboard_MyScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->내 점수</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_MyScores_Text>
+  <Leaderboard_TopScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->종합</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_TopScores_Text>
+
+  <rank_text>
+    <text _locID=""><!-- _locComment_text="" -->순위</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </rank_text>
+  <gamertag_text>
+    <text _locID=""><!-- _locComment_text="" -->게이머태그</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </gamertag_text>
+  <score_text>
+    <text _locID=""><!-- _locComment_text="" -->점수</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </score_text>
+  <difficulty_text>
+    <text _locID=""><!-- _locComment_text="" -->난이도:</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </difficulty_text>
+  <Leaderboard_NoScoreFriends_Text>
+    <text _locID=""><!-- _locComment_text="" -->친구가 순위표에 아직 등록되지 않았습니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_NoScoreFriends_Text>
+  <Leaderboard_NoScoreYou_Text>
+    <text _locID=""><!-- _locComment_text="" -->순위표에 아직 등록되지 않았습니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_NoScoreYou_Text>
+  <Leaderboard_NoScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->순위표에 점수가 등록되지 않았습니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_NoScores_Text>  
+  <Leaderboard_Error_Text>
+    <text _locID=""><!-- _locComment_text="" -->순위표의 정보를 불러올 수 없습니다. 나중에 다시 시도하십시오.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_Error_Text>
+  <Leaderboard_SignedIn_Text>
+    <text _locID=""><!-- _locComment_text="" -->로그인:</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </Leaderboard_SignedIn_Text>
+  <leaderboard_score>
+    <text _locID="Wait"><!-- _locComment_text="" -->최고 점수:</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </leaderboard_score>
+
+
+
+  <notsignedintolive_text>
+    <text _locID=""><!-- _locComment_text="" -->순위표를 보거나 점수를 등록하려면 먼저 Xbox Live에 로그인해야 합니다. 로그인하려면 Xbox 가이드 단추를 누르고 뒤로 돌아가려면 B 단추를 누르십시오.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </notsignedintolive_text>
+  <notsignedintolive_back_text>
+    <text _locID=""><!-- _locComment_text="" -->뒤로</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </notsignedintolive_back_text>
+
+  <resumegame_hdr>
+    <text _locID=""><!-- _locComment_text="" -->게임 이어하기</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->24</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </resumegame_hdr>
+  <resumegame_marathon_body>
+    <text _locID=""><!-- _locComment_text="" -->최근의 마라톤 모드 게임을 이어 진행하거나 새 게임을 시작할 수 있습니다. 새 게임을 시작하면 이전 게임의 진행 내용을 모두 잃게 됩니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </resumegame_marathon_body>
+  <resumegame_timed_body>
+    <text _locID=""><!-- _locComment_text="" -->최근의 시간 제한 모드 게임을 이어 진행하거나 새 게임을 시작할 수 있습니다. 새 게임을 시작하면 이전 게임의 진행 내용을 모두 잃게 됩니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </resumegame_timed_body>
+  <resumegame_survival_body>
+    <text _locID=""><!-- _locComment_text="" -->최근의 서바이벌 모드 게임을 이어 진행하거나 새 게임을 시작할 수 있습니다. 새 게임을 시작하면 이전 게임의 진행 내용을 모두 잃게 됩니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </resumegame_survival_body>
+  <resumegame_yes_text>
+    <text _locID=""><!-- _locComment_text="" -->이전 게임 계속하기</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </resumegame_yes_text>
+  <resumegame_no_text>
+    <text _locID=""><!-- _locComment_text="" -->새 게임</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </resumegame_no_text>
+  
+  <startup_text>
+    <text _locID=""><!-- _locComment_text="" -->계속하려면 A 단추를 누르십시오.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </startup_text>
+  <startup_profile_text>
+    <text _locID=""><!-- _locComment_text="" -->게임을 시작하려면 먼저 프로필에 로그인해야 합니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </startup_profile_text>
+  <startup_signedout_text>
+    <text _locID=""><!-- _locComment_text="" -->프로필에서 로그아웃하면 게임 진행 내용을 잃게 됩니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </startup_signedout_text>
+
+  <main_standardtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->무엇보다 폭탄을 먼저 제거해야 합니다!</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </main_standardtooltip_text>
+  <main_timedtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->서두르세요! 시간이 줄어 들고 있습니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </main_timedtooltip_text>
+  <main_survivaltooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->남은 조각들은 보드에 움직이지 못한 채로 고정됩니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </main_survivaltooltip_text>
+  <main_optionstooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->설정을 바꾸고 이 게임의 제작진을 봅니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </main_optionstooltip_text>
+  <main_tutorialtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->게임 진행 요령과 팁을 익힙니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </main_tutorialtooltip_text>
+  <main_leaderboardtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Xbox Live에서 게이머들의 점수를 봅니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </main_leaderboardtooltip_text>
+  <main_exittooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic을 종료하고 아케이드 메뉴로 돌아갑니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </main_exittooltip_text>
+  <main_exittodashtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic을 종료합니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </main_exittodashtooltip_text>
+  <main_achievementstip_text>
+    <text _locID=""><!-- _locComment_text="" -->지금까지 받은 수상 내역을 보여줍니다.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </main_achievementstip_text>  
+
+
+  <controls_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->게임 조작</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->30</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </controls_hdr_text>
+  <controls_rotateccw_text>
+    <text _locID=""><!-- _locComment_text="" -->시계 반대 방향으로 회전</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </controls_rotateccw_text>
+  <controls_rotatecw_text>
+    <text _locID=""><!-- _locComment_text="" -->시계 방향으로 회전</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </controls_rotatecw_text>
+  <controls_guide_text>
+    <text _locID=""><!-- _locComment_text="" -->Xbox 가이드</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </controls_guide_text>
+  <controls_pause_text>
+    <text _locID=""><!-- _locComment_text="" -->일시 중지</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </controls_pause_text>
+  <controls_navigate_text>
+    <text _locID=""><!-- _locComment_text="" -->커서 이동</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </controls_navigate_text>
+  <controls_back_text>
+    <text _locID=""><!-- _locComment_text="" -->뒤로</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </controls_back_text>
+
+  <nohd_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->Xbox 360 하드 드라이브 필요</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </nohd_hdr_text>
+  <nohd_body_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic HD를 실행하려면 Xbox 360 하드 드라이브가 반드시 필요합니다. 먼저 Xbox 360 전원을 끄고 Xbox 360 하드 드라이브를 장착하십시오.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </nohd_body_text>
+
+  <fileio_read_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->프로필을 불러올 수 없음</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </fileio_read_hdr_text>
+  <fileio_read_body_text>
+    <text _locID=""><!-- _locComment_text="" -->게임 진행 내용과 설정을 불러올 수 없습니다. 계속하려면 A 단추를 누르십시오.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </fileio_read_body_text>
+  <fileio_write_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->프로필을 저장할 수 없음</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </fileio_write_hdr_text>
+  <fileio_write_body_text>
+    <text _locID=""><!-- _locComment_text="" -->게임 진행 내용과 설정을 저장할 수 없습니다. 저장하지 않고 계속하려면 A 단추를 누르십시오.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </fileio_write_body_text>
+  <fileio_button_text>
+    <text _locID=""><!-- _locComment_text="" -->확인</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>
+  </fileio_button_text>
+
+</HexicDeluxe>

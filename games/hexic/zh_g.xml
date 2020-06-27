@@ -1,0 +1,956 @@
+<!-- HexicDeluxe Localization Strings -->
+<HexicDeluxe>
+  <bonus_title>
+    <text _locID="bonus_title"><!-- _locComment_text="" -->紅利</text>
+    <size _locID="bonus_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="bonus_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </bonus_title>
+  <combo_title>
+    <text _locID="combo_title"><!-- _locComment_text="" -->剩餘目標</text>
+    <size _locID="combo_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="combo_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </combo_title>
+  <level_title>
+    <text _locID="level_title"><!-- _locComment_text="" -->等級</text>
+    <size _locID="level_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="level_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </level_title>
+  <score_title>
+    <text _locID="score_title"><!-- _locComment_text="" -->分數</text>
+    <size _locID="score_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="score_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </score_title>
+  <time_title>
+    <text _locID="time_title"><!-- _locComment_text="" -->時間</text>
+    <size _locID="time_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="time_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </time_title>
+  <pausebutton_pause>
+    <text _locID="time_title"><!-- _locComment_text="" -->暫停</text>
+    <size _locID="time_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="time_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </pausebutton_pause>
+
+
+  <gameend_gameover>
+    <text _locID="GameOverHeader"><!-- _locComment_text="" -->遊戲結束</text>
+    <size _locID="GameOverHeaderSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="GameOverHeaderFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_gameover>
+  <gameend_youwin>
+    <text _locID="YouWinHeader"><!-- _locComment_text="" -->您獲勝 !</text>
+    <size _locID="YouWinHeaderSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="YouWinHeaderFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_youwin>
+
+  <gameendinfo_bomb>
+    <text _locID="Wait"><!-- _locComment_text="" -->炸彈引爆了 !</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_bomb>
+  <gameendinfo_time>
+    <text _locID="Wait"><!-- _locComment_text="" -->時間到 !</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_time>
+  <gameendinfo_pearlcluster>
+    <text _locID="Wait"><!-- _locComment_text="" -->黑色方塊組 !</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_pearlcluster>
+  <gameendinfo_pearlflower>
+    <text _locID="Wait"><!-- _locComment_text="" -->黑色星狀方塊組 !</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_pearlflower>
+  <gameendinfo_nomoves>
+    <text _locID="GameEndInfo_NoMoves"><!-- _locComment_text="" -->沒有可移除的方塊組 !</text>
+    <size _locID="GameEndInfo_NoMovesSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="GameEndInfo_NoMovesFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_nomoves> 
+  <gameendinfo_allremoved>
+    <text _locID="gameendinfo_allremoved"><!-- _locComment_text="" -->所有方塊清空 !</text>
+    <size _locID="gameendinfo_allremovedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="gameendinfo_allremovedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_allremoved> 
+  <gameendinfo_survived>
+    <text _locID="gameendinfo_survived"><!-- _locComment_text="" -->過關 !</text>
+    <size _locID="gameendinfo_survivedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="gameendinfo_survivedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_survived> 
+
+  <gameend_piececount>
+    <text _locID="Wait"><!-- _locComment_text="" -->消除總數 :</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_piececount>
+  <gameend_score>
+    <text _locID="Wait"><!-- _locComment_text="" -->最後分數 :</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_score>
+  <gameend_time>
+    <text _locID="GameEndTime"><!-- _locComment_text="" -->總時間 :</text>
+    <size _locID="GameEndTimeSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="GameEndTimeFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_time>
+
+
+
+  <plume_levelup>
+    <text _locID="Wait"><!-- _locComment_text="" -->升級 !</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </plume_levelup>
+
+
+  <pause_header>
+    <text _locID="Wait"><!-- _locComment_text="" -->暫停</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->36</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </pause_header>
+
+
+
+  <nomoves_text>
+    <text _locID="Wait"><!-- _locComment_text="" -->沒有可移除的方塊組 !
+方塊重組...</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </nomoves_text>
+
+
+
+  <popup_continueButton>
+    <text _locID="Wait"><!-- _locComment_text="" -->繼續</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </popup_continueButton>
+
+
+
+	<playagain_button>
+		<text _locID="playagain_button"><!-- _locComment_text="" -->繼續</text>
+		<size _locID="playagain_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="playagain_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</playagain_button>
+
+
+  <modeButton_normal>
+    <text _locID="Wait"><!-- _locComment_text="" -->開始馬拉松模式</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </modeButton_normal>
+  <modeButton_timed>
+    <text _locID="Wait"><!-- _locComment_text="" -->開始計時模式</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </modeButton_timed>
+  <modeButton_survival>
+    <text _locID="Wait"><!-- _locComment_text="" -->開始生存模式</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </modeButton_survival>
+  <menuButton_resume>
+    <text _locID="menuButton_resume"><!-- _locComment_text="" -->繼續遊戲</text>
+    <size _locID="menuButton_resumeSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_resumeFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_resume>
+  <menuButton_options>
+    <text _locID="menuButton_options"><!-- _locComment_text="" -->選項</text>
+    <size _locID="menuButton_optionsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_optionsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_options>
+  <menuButton_leaderboard>
+    <text _locID="menuButton_highscores"><!-- _locComment_text="" -->排行榜</text>
+    <size _locID="menuButton_highscoresSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_highscoresFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_leaderboard>
+  <menuButton_tutorial>
+    <text _locID="menuButton_tutorial"><!-- _locComment_text="" -->教學課程及提示</text>
+    <size _locID="menuButton_tutorialSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_tutorialFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_tutorial>
+  <menuButton_exit>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->回到遊樂場選單</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_exit>
+  <menuButton_exittodash>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->Xbox 設定畫面</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_exittodash>
+  <menuButton_exitpause>
+    <text _locID="Wait"><!-- _locComment_text="" -->主選單</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_exitpause>
+  <menuButton_achievements>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->成就</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_achievements>
+
+
+
+	<header_difficulty_marathon>
+		<text _locID="header_difficulty_marathon"><!-- _locComment_text="" -->選擇馬拉松模式困難度</text>
+		<size _locID="header_difficulty_marathonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_marathonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</header_difficulty_marathon>
+	<header_difficulty_timed>
+		<text _locID="header_difficulty_timed"><!-- _locComment_text="" -->選擇計時模式困難度</text>
+		<size _locID="header_difficulty_timedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_timedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</header_difficulty_timed>
+	<header_difficulty_survival>
+		<text _locID="header_difficulty_survival"><!-- _locComment_text="" -->選擇生存模式困難度</text>
+		<size _locID="header_difficulty_survivalSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_survivalFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</header_difficulty_survival>
+	<difficultyButton_easy>
+		<text _locID="difficultyButton_easy"><!-- _locComment_text="" -->正常</text>
+		<size _locID="difficultyButton_easySize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_easyFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</difficultyButton_easy>
+	<difficultyButton_medium>
+		<text _locID="difficultyButton_medium"><!-- _locComment_text="" -->困難</text>
+		<size _locID="difficultyButton_mediumSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_mediumFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</difficultyButton_medium>
+	<difficultyButton_hard>
+		<text _locID="difficultyButton_hard"><!-- _locComment_text="" -->專家</text>
+		<size _locID="difficultyButton_hardSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_hardFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</difficultyButton_hard>
+	<difficultyButton_cancel>
+		<text _locID="difficultyButton_cancel"><!-- _locComment_text="" -->上一步</text>
+		<size _locID="difficultyButton_cancelSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_cancelFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</difficultyButton_cancel>
+
+
+	<options_header>
+		<text _locID="options_header"><!-- _locComment_text="" -->遊戲選項</text>
+		<size _locID="options_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->24</size>
+		<font _locID="options_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</options_header>
+	<optionsButton_defaults>
+		<text _locID="optionsButton_defaults"><!-- _locComment_text="" -->還原預設值</text>
+		<size _locID="optionsButton_defaultsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_defaultsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_defaults>
+	<optionsButton_credits>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->製作群</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_credits>
+	<optionsButton_controls>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->控制</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_controls>
+	<optionsButton_about>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->關於</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_about>
+	<optionsButton_return>
+		<text _locID="optionsButton_return"><!-- _locComment_text="" -->完成</text>
+		<size _locID="optionsButton_returnSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_returnFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_return>
+	<optionsText_sfx>
+		<text _locID="optionsText_sfx"><!-- _locComment_text="" -->SFX 音量</text>
+		<size _locID="optionsText_sfxSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsText_sfxFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsText_sfx>
+	<optionsText_music>
+		<text _locID="optionsText_music"><!-- _locComment_text="" -->音樂音量</text>
+		<size _locID="optionsText_musicSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsText_musicFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsText_music>
+	<optionsText_patterns>
+		<text _locID="optionsText_patterns"><!-- _locComment_text="" -->樣式</text>
+		<size _locID="optionsText_patternsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsText_patternsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsText_patterns>
+
+
+	<credits_header>
+		<text _locID="credits_header"><!-- _locComment_text="" -->製作群</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</credits_header>
+	<credits_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->返回</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</credits_back>
+	<controls_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->返回</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</controls_back>
+	<about_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->返回</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</about_back>
+
+	<highscores_beginner>
+		<text _locID="highscores_beginner"><!-- _locComment_text="" -->正常</text>
+		<size _locID="highscores_beginnerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_beginnerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</highscores_beginner>
+	<highscores_intermediate>
+		<text _locID="highscores_intermediate"><!-- _locComment_text="" -->困難</text>
+		<size _locID="highscores_intermediateSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_intermediateFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</highscores_intermediate>
+	<highscores_expert>
+		<text _locID="highscores_expert"><!-- _locComment_text="" -->專家</text>
+		<size _locID="highscores_expertSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_expertFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</highscores_expert>
+
+	<nameEntry_header>
+		<text _locID="nameEntry_header"><!-- _locComment_text="" -->新高分</text>
+		<size _locID="nameEntry_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="nameEntry_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</nameEntry_header>
+	<nameEntry_newscore>
+		<text _locID="nameEntry_body1"><!-- _locComment_text="" -->恭喜 ! 你剛在 Xbox Live 排行榜創下新的高分紀錄 ! </text>
+		<size _locID="nameEntry_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="nameEntry_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</nameEntry_newscore>
+	<nameEntry_signin>
+		<text _locID="nameEntry_body1"><!-- _locComment_text="" -->恭喜 ! 你剛創下新的高分紀錄 ! 按下 360 按鍵登入 Xbox Live 來登記你的成績 ! </text>
+		<size _locID="nameEntry_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="nameEntry_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</nameEntry_signin>	
+
+	<tutorial_header>
+		<text _locID="tutorial_header"><!-- _locComment_text="" -->如何玩 Hexic</text>
+		<size _locID="tutorial_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="tutorial_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_header>
+	<tutorial_marathon_text>
+		<text _locID="tutorial_marathon_text"><!-- _locComment_text="" -->這是標準的 Hexic, 你能利用特殊的黑色方塊拼成方塊組嗎 ? </text>
+		<size _locID="tutorial_marathon_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_marathon_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_marathon_text>
+	<tutorial_timed_text>
+		<text _locID="tutorial_timed_text"><!-- _locComment_text="" -->這是與時間對抗的遊戲。你必須在規定的時間內完成目標。</text>
+		<size _locID="tutorial_timed_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_timed_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_timed_text>
+	<tutorial_survival_text>
+		<text _locID="tutorial_survival_text"><!-- _locComment_text="" -->你要小心轉動每一個方塊, 並且努力把遊戲板上的方塊都清乾淨。</text>
+		<size _locID="tutorial_survival_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_survival_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_survival_text>
+	<tutorial_tips_text>
+		<text _locID="tutorial_tips_text"><!-- _locComment_text="" -->顯示提示或密技 ! </text>
+		<size _locID="tutorial_tips_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_tips_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_tips_text>
+	<tutorial_marathon_button>
+		<text _locID="tutorial_marathon_button"><!-- _locComment_text="" -->馬拉松</text>
+		<size _locID="tutorial_marathon_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_marathon_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_marathon_button>
+	<tutorial_timed_button>
+		<text _locID="tutorial_timed_button"><!-- _locComment_text="" -->計時</text>
+		<size _locID="tutorial_timed_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_timed_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_timed_button>
+	<tutorial_survival_button>
+		<text _locID="tutorial_survival_button"><!-- _locComment_text="" -->生存</text>
+		<size _locID="tutorial_survival_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_survival_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_survival_button>
+	<tutorial_tips_button>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->提示</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_tips_button>
+	<tutorial_back_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->上一步</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_back_text>
+	<tutorial_next_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->下一頁</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_next_text>	
+	<tutorial_backmenu_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->選單</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_backmenu_text>	
+
+	<mara_hdr>
+		<text _locID="mara_hdr"><!-- _locComment_text="" -->馬拉松模式</text>
+		<size _locID="mara_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="mara_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_hdr>
+	<mara_1_body1>
+		<text _locID="mara_1_body1"><!-- _locComment_text="" -->選取任一由三個方塊組成的方塊組, 按 A 按鍵順時針旋轉, 按 X 按鍵逆時針旋轉, 或按左右發射鍵來旋轉。
+
+方塊組會一直旋轉, 直到碰到相鄰同色的方塊, 或是回到原位。</text>
+		<size _locID="mara_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_1_body1>
+	<mara_1_body2>
+		<text _locID="mara_1_body2"><!-- _locComment_text="" -->任一顏色方塊與另二個相同顏色方塊組成標準方塊組後, 就會從遊戲板上消失, 上方的方塊就會落下遞補。</text>
+		<size _locID="mara_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_1_body2>
+	<mara_2_body1>
+		<text _locID="mara_2_body1"><!-- _locComment_text="" -->利用紅利方塊組成的方塊組, 可取得更高的分數 ! </text>
+		<size _locID="mara_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_2_body1>
+	<mara_2_body2>
+		<text _locID="mara_2_body2"><!-- _locComment_text="" -->小心炸彈方塊 ! 每旋轉一次都會牽動炸彈方塊倒數計時。
+
+在倒數計時為零之前, 儘快將其拼成方塊組, 否則遊戲就會結束。</text>
+		<size _locID="mara_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_2_body2>
+	<mara_3_body1>
+		<text _locID="mara_3_body1"><!-- _locComment_text="" -->以六個相同顏色的方塊環繞在一個方塊四周, 組成星狀方塊組, 即可獲得更高的分數 ! </text>
+		<size _locID="mara_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_3_body1>
+	<mara_3_body2>
+		<text _locID="mara_3_body2"><!-- _locComment_text="" -->以六個星狀方塊環繞一個方塊。星狀方塊會消失, 中間那個方塊會變成特殊的黑色方塊。</text>
+		<size _locID="mara_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_3_body2>
+	<mara_3_body3>
+		<text _locID="mara_3_body3"><!-- _locComment_text="" -->利用黑色方塊拼成方塊組或星狀方塊組, 就可以贏得最後勝利 ! </text>
+		<size _locID="mara_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_3_body3>
+
+	<time_hdr>
+		<text _locID="time_hdr"><!-- _locComment_text="" -->計時模式</text>
+		<size _locID="time_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="time_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_hdr>
+	<time_1_body1>
+		<text _locID="time_1_body1"><!-- _locComment_text="" -->選取任一由三個方塊組成的方塊組, 按 A 按鍵順時針旋轉, 按 X 按鍵逆時針旋轉, 或按左右發射鍵來旋轉。
+
+方塊組會一直旋轉, 直到碰到相鄰同色的方塊, 或是回到原位。</text>
+		<size _locID="time_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_1_body1>
+	<time_1_body2>
+		<text _locID="time_1_body2"><!-- _locComment_text="" -->任一方塊與其相鄰且顏色相同的方塊組合後, 即形成方塊組。方塊組組成後, 方塊便會自遊戲板上消失, 而新的方塊會自上方遞補空缺。</text>
+		<size _locID="time_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_1_body2>
+	<time_2_body1>
+		<text _locID="time_2_body1"><!-- _locComment_text="" -->注意計時器 ! 
+若是成功組成方塊組會增加遊戲時間, 反之則是浪費時間 ! </text>
+		<size _locID="time_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_2_body1>
+	<time_2_body2>
+		<text _locID="time_2_body2"><!-- _locComment_text="" -->利用紅利方塊組成的方塊組, 可取得更高的分數 ! </text>
+		<size _locID="time_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_2_body2>
+	<time_3_body1>
+		<text _locID="time_3_body1"><!-- _locComment_text="" -->以六個相同顏色的方塊環繞在一個方塊四周, 即形成星狀方塊, 組成星狀方塊可以延長時間。</text>
+		<size _locID="time_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_3_body1>
+
+	<surv_hdr>
+		<text _locID="surv_hdr"><!-- _locComment_text="" -->生存模式</text>
+		<size _locID="surv_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="surv_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_hdr>
+	<surv_1_body1>
+		<text _locID="surv_1_body1"><!-- _locComment_text="" -->選取任一由三個方塊組成的方塊組, 按 A 按鍵順時針旋轉, 按 X 按鍵逆時針旋轉, 或按左右發射鍵來旋轉。
+
+方塊組會一直旋轉, 直到碰到相鄰同色的方塊, 或是回到原位。</text>
+		<size _locID="surv_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_1_body1>
+	<surv_1_body2>
+		<text _locID="surv_1_body2"><!-- _locComment_text="" -->任一方塊與其相鄰且顏色相同的方塊組合後, 即形成方塊組。方塊組組成後, 方塊便會自遊戲板上消失, 而新的方塊會自上方遞補空缺。</text>
+		<size _locID="surv_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_1_body2>
+	<surv_1_body3>
+		<text _locID="surv_1_body3"><!-- _locComment_text="" -->利用紅利方塊組成的方塊組, 可取得更高的分數 ! </text>
+		<size _locID="surv_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_1_body3>
+	<surv_1_body4>
+		<text _locID="surv_1_body3"><!-- _locComment_text="" -->完全清空遊戲板上的方塊才能贏得勝利 ! </text>
+		<size _locID="surv_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_1_body4>
+	<surv_2_body1>
+		<text _locID="surv_2_body1"><!-- _locComment_text="" -->不會有遞補的方塊從遊戲板上方落下。 你必須持續組成方塊組, 一直到遊戲板上沒有可消掉的方塊為止。此時, 剩下的方塊會被鎖住, 而新的方塊會落下, 並開始下一回合的遊戲。</text>
+		<size _locID="surv_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_2_body1>
+	<surv_2_body2>
+		<text _locID="surv_2_body2"><!-- _locComment_text="" -->注意 ! 當遊戲板上都是被鎖住的方塊時, 遊戲宣告結束。</text>
+		<size _locID="surv_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_2_body2>
+	<surv_3_body1>
+		<text _locID="surv_3_body1"><!-- _locComment_text="" -->你無法移動被鎖住的方塊, 但是你仍然可以利用它們成為方塊組的一部份。</text>
+		<size _locID="surv_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_3_body1>
+	<surv_3_body2>
+		<text _locID="surv_3_body2"><!-- _locComment_text="" -->組成紅利方塊組時, 可以解開周圍被鎖住的方塊。</text>
+		<size _locID="surv_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_3_body2>
+	<surv_3_body3>
+		<text _locID="surv_3_body3"><!-- _locComment_text="" -->組成星狀方塊組時, 遊戲板上所有與星狀中心相同顏色的方塊均會消失, 而且所有被鎖住的方塊也會被解開。 </text>
+		<size _locID="surv_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_3_body3>
+
+	<tip_hdr>
+		<text _locID="tip_hdr"><!-- _locComment_text="" -->Hexic 提示</text>
+		<size _locID="tip_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="tip_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_hdr>
+	<tip_1_body1>
+		<text _locID="tip_1_body1"><!-- _locComment_text="" -->一般提示</text>
+		<size _locID="tip_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_1_body1>
+	<tip_1_body2>
+		<text _locID="tip_1_body2"><!-- _locComment_text="" -->不需使用相同顏色的紅利方塊, 即可組成紅利方塊組。</text>
+		<size _locID="tip_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_1_body2>
+	<tip_1_body3>
+		<text _locID="tip_1_body3"><!-- _locComment_text="" -->先找到部分已經組好的星狀方塊, 然後自己再組合剩下的部份, 就能完成一個組合。</text>
+		<size _locID="tip_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_1_body3>
+	<tip_1_body4>
+		<text _locID="tip_1_body4"><!-- _locComment_text="" -->當你試圖在組合星狀方塊組時, 不要在其下方組合方塊組, 否則方塊有可能往下掉, 喪失原先組合的位置。</text>
+		<size _locID="tip_1_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_1_body4>
+	<tip_2_body1>
+		<text _locID="tip_2_body1"><!-- _locComment_text="" -->一般提示</text>
+		<size _locID="tip_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_2_body1>
+	<tip_2_body2>
+		<text _locID="tip_2_body2"><!-- _locComment_text="" -->若你對辨認顏色有困難, 可以從選項選單中, 開啟樣式功能。</text>
+		<size _locID="tip_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_2_body2>
+	<tip_3_body1>
+		<text _locID="tip_3_body1"><!-- _locComment_text="" -->馬拉松模式</text>
+		<size _locID="tip_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body1>
+	<tip_3_body2>
+		<text _locID="tip_3_body2"><!-- _locComment_text="" -->別讓你的星狀方塊掉到遊戲板的底部, 否則很難組成黑色方塊。</text>
+		<size _locID="tip_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body2>
+	<tip_3_body3>
+		<text _locID="tip_3_body3"><!-- _locComment_text="" -->早點組合星狀方塊組。遊戲開始時, 難度較低, 而且方塊的顏色也較少, 容易組合星狀方塊組。</text>
+		<size _locID="tip_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body3>
+	<tip_3_body4>
+		<text _locID="tip_3_body4"><!-- _locComment_text="" -->趕快移除炸彈方塊 ! 一旦出現炸彈方塊, 別浪費時間, 趕緊將它清除。</text>
+		<size _locID="tip_3_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body4>
+	<tip_3_body5>
+		<text _locID="tip_3_body5"><!-- _locComment_text="" -->你可以在炸彈方塊下方組合或清除方塊組, 幫助你移動炸彈方塊到 2 個相同顏色的方塊組成方塊組。</text>
+		<size _locID="tip_3_body5Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body5Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body5>
+	<tip_4_body1>
+		<text _locID="tip_4_body1"><!-- _locComment_text="" -->計時模式</text>
+		<size _locID="tip_4_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_4_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_4_body1>
+	<tip_4_body2>
+		<text _locID="tip_4_body2"><!-- _locComment_text="" -->在計時模式中, 分秒必爭 ! 為了在時間內完成目標, 最好不要花費時間在不必要的方塊旋轉上。</text>
+		<size _locID="tip_4_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_4_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_4_body2>
+	<tip_4_body3>
+		<text _locID="tip_4_body3"><!-- _locComment_text="" -->請閱讀所有馬拉松模式的提示, 這些提示也適用於計時模式中 ! </text>
+		<size _locID="tip_4_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_4_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_4_body3>
+	<tip_5_body1>
+		<text _locID="tip_5_body1"><!-- _locComment_text="" -->生存模式</text>
+		<size _locID="tip_5_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_5_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body1>
+	<tip_5_body2>
+		<text _locID="tip_5_body2"><!-- _locComment_text="" -->先清掉邊緣的方塊。</text>
+		<size _locID="tip_5_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body2>
+	<tip_5_body3>
+		<text _locID="tip_5_body3"><!-- _locComment_text="" -->避免將被鎖住的方塊疊高。</text>
+		<size _locID="tip_5_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body3>
+	<tip_5_body4>
+		<text _locID="tip_5_body4"><!-- _locComment_text="" -->盡可能移除被鎖住的方塊。</text>
+		<size _locID="tip_5_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body4>
+	<tip_5_body5>
+		<text _locID="tip_5_body5"><!-- _locComment_text="" -->組合紅利方塊組, 可以解開所有周遭被鎖住的方塊。</text>
+		<size _locID="tip_5_body5Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body5Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body5>
+	<tip_5_body6>
+		<text _locID="tip_5_body6"><!-- _locComment_text="" -->組合星狀方塊組, 可以解開所有被鎖住的方塊, 並且清除所有與星狀中心相同顏色的方塊。</text>
+		<size _locID="tip_5_body6Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body6Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body6>
+
+
+  <Tip_0_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->選取任一由三個方塊組成的方塊組, 按 A 按鍵順時針旋轉, 按 X 按鍵逆時針旋轉, 或按左右發射鍵來旋轉。
+
+方塊組會一直旋轉, 直到碰到相鄰同色的方塊, 或是回到原位。</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_0_Text>
+  <Tip_1_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->利用紅利方塊組成的方塊組, 可取得更高的分數 ! 
+
+試試看把不同顏色的紅利方塊拼成標準方塊組, 會有什麼驚喜。</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_1_Text>
+  <Tip_2_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->小心炸彈方塊 ! 每旋轉一次都會牽動炸彈方塊倒數計時。
+
+在倒數計時為零之前, 儘快將其拼成方塊組, 否則遊戲就會結束。</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_2_Text>
+  <Tip_3_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->組成星狀方塊, 可獲得更高的分數 ! 
+
+以六個相同顏色的方塊環繞在一個方塊四周, 即組成星狀方塊。</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_3_Text>
+  <Tip_4_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->利用炸彈方塊和至少一個紅利方塊, 組合成相同顏色的方塊組, 便可清除遊戲板中相同顏色的所有方塊。</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_4_Text>
+  <Tip_5_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->以六個星狀方塊環繞一個方塊。星狀方塊會消失, 中間那個方塊會變成特殊的黑色方塊。</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_5_Text>
+  <Tip_6_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->你以達到遊戲的最高等級 ! 
+
+利用黑色方塊拼成方塊組或星狀方塊組, 就可以贏得最後勝利 ! </text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_6_Text>
+  <Tip_Survival_Text>
+    <text _locID="Tip_Survival_Text"><!-- _locComment_text="" -->組合方塊組可以移除遊戲板上的方塊。完全清空遊戲板上的方塊即可獲得勝利 ! 
+
+注意 ! 剩下的方塊會被鎖住, 而新的方塊會落下, 並開始下一回合的遊戲。組合紅利方塊組可以解開所有被鎖住的方塊。</text>
+    <size _locID="Tip_Survival_TextSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="Tip_Survival_TextFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_Survival_Text>
+
+  <Leaderboard_Marathon_Text>
+    <text _locID=""><!-- _locComment_text="" -->馬拉松</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Marathon_Text>
+  <Leaderboard_Timed_Text>
+    <text _locID=""><!-- _locComment_text="" -->計時</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Timed_Text>
+  <Leaderboard_Survival_Text>
+    <text _locID=""><!-- _locComment_text="" -->生存</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Survival_Text>
+  <Leaderboard_Sort_Text>
+    <text _locID=""><!-- _locComment_text="" -->排列</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Sort_Text>
+  <Leaderboard_FriendScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->好友</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_FriendScores_Text>
+  <Leaderboard_MyScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->我的分數</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_MyScores_Text>
+  <Leaderboard_TopScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->全部</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_TopScores_Text>
+
+  <rank_text>
+    <text _locID=""><!-- _locComment_text="" -->排行</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </rank_text>
+  <gamertag_text>
+    <text _locID=""><!-- _locComment_text="" -->玩家</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gamertag_text>
+  <score_text>
+    <text _locID=""><!-- _locComment_text="" -->分數</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </score_text>
+  <difficulty_text>
+    <text _locID=""><!-- _locComment_text="" -->困難度 :</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </difficulty_text>
+  <Leaderboard_NoScoreFriends_Text>
+    <text _locID=""><!-- _locComment_text="" -->您的好友尚未在排行榜上。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_NoScoreFriends_Text>
+  <Leaderboard_NoScoreYou_Text>
+    <text _locID=""><!-- _locComment_text="" -->您尚未在排行榜上。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_NoScoreYou_Text>
+  <Leaderboard_NoScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->本排行榜尚無名次。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_NoScores_Text>  
+  <Leaderboard_Error_Text>
+    <text _locID=""><!-- _locComment_text="" -->排行榜目前無法使用, 請稍後再試。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Error_Text>
+  <Leaderboard_SignedIn_Text>
+    <text _locID=""><!-- _locComment_text="" -->登入 :</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_SignedIn_Text>
+  <leaderboard_score>
+    <text _locID="Wait"><!-- _locComment_text="" -->最後分數 :</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </leaderboard_score>
+
+
+
+  <notsignedintolive_text>
+    <text _locID=""><!-- _locComment_text="" -->你必須登入 Xbox Live, 才能檢閱或上傳到排行榜。
+
+請按 360 按鍵登入或按 B 按鍵回到上一頁。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </notsignedintolive_text>
+  <notsignedintolive_back_text>
+    <text _locID=""><!-- _locComment_text="" -->返回</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </notsignedintolive_back_text>
+
+  <resumegame_hdr>
+    <text _locID=""><!-- _locComment_text="" -->繼續遊戲嗎 ?</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->24</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_hdr>
+  <resumegame_marathon_body>
+    <text _locID=""><!-- _locComment_text="" -->你要繼續先前的遊戲或是開始新的馬拉松模式遊戲 ? 請注意, 若是你選擇新遊戲, 則先前的紀錄不會被儲存。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_marathon_body>
+  <resumegame_timed_body>
+    <text _locID=""><!-- _locComment_text="" -->你要繼續先前的遊戲或是開始新的計時模式遊戲 ? 請注意, 若是你選擇新遊戲, 則先前的紀錄不會被儲存。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_timed_body>
+  <resumegame_survival_body>
+    <text _locID=""><!-- _locComment_text="" -->你要繼續先前的遊戲或是開始新的生存模式遊戲 ? 請注意, 若是你選擇新遊戲, 則先前的紀錄不會被儲存。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_survival_body>
+  <resumegame_yes_text>
+    <text _locID=""><!-- _locComment_text="" -->繼續遊戲</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_yes_text>
+  <resumegame_no_text>
+    <text _locID=""><!-- _locComment_text="" -->新遊戲</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_no_text>
+  
+  <startup_text>
+    <text _locID=""><!-- _locComment_text="" -->按 A 按鍵繼續。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </startup_text>
+  <startup_profile_text>
+    <text _locID=""><!-- _locComment_text="" -->必須先登入設定檔才能玩。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </startup_profile_text>
+  <startup_signedout_text>
+    <text _locID=""><!-- _locComment_text="" -->你已登出設定檔, 遊戲進度已遺失。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </startup_signedout_text>
+
+  <main_standardtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->加緊腳步, 時間一到炸彈就爆炸囉 ! </text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_standardtooltip_text>
+  <main_timedtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->加油 ! 動作快 ! 時間快沒了 ! </text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_timedtooltip_text>
+  <main_survivaltooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->留在板子上未用到的方塊。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_survivaltooltip_text>
+  <main_optionstooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->變更設定及參觀製作小組。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_optionstooltip_text>
+  <main_tutorialtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->學習怎麼玩, 或是發現新技巧。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_tutorialtooltip_text>
+  <main_leaderboardtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->查閱 Xbox Live 上的高分紀錄。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_leaderboardtooltip_text>
+  <main_exittooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->離開 Hexic 回到遊樂場選單。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_exittooltip_text>
+  <main_exittodashtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->離開 Hexic 回到 Xbox 設定畫面。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_exittodashtooltip_text>
+  <main_achievementstip_text>
+    <text _locID=""><!-- _locComment_text="" -->炫燿一下你贏得的獎項。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_achievementstip_text>  
+
+
+  <controls_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->遊戲控制</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->30</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_hdr_text>
+  <controls_rotateccw_text>
+    <text _locID=""><!-- _locComment_text="" -->逆時針旋轉</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_rotateccw_text>
+  <controls_rotatecw_text>
+    <text _locID=""><!-- _locComment_text="" -->順時針旋轉</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_rotatecw_text>
+  <controls_guide_text>
+    <text _locID=""><!-- _locComment_text="" -->Xbox 360 按鍵</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_guide_text>
+  <controls_pause_text>
+    <text _locID=""><!-- _locComment_text="" -->暫停</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_pause_text>
+  <controls_navigate_text>
+    <text _locID=""><!-- _locComment_text="" -->移動游標</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_navigate_text>
+  <controls_back_text>
+    <text _locID=""><!-- _locComment_text="" -->返回</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_back_text>
+
+  <nohd_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->需要 Xbox 360 硬碟</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </nohd_hdr_text>
+  <nohd_body_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic 必須從 Xbox 360 的硬碟執行, 請將 Xbox 360 主機關機, 然後裝上 Xbox 360 專用硬碟。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </nohd_body_text>
+
+  <fileio_read_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->無法讀取設定檔</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_read_hdr_text>
+  <fileio_read_body_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic 無法讀取遊戲進度及設定, 請按 A 按鍵繼續。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_read_body_text>
+  <fileio_write_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->無法儲存設定檔</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_write_hdr_text>
+  <fileio_write_body_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic 無法讀取遊戲進度及設定, 請按 A 按鍵不儲存並繼續。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_write_body_text>
+  <fileio_button_text>
+    <text _locID=""><!-- _locComment_text="" -->確定</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_button_text>
+
+</HexicDeluxe>

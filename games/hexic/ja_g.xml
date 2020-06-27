@@ -1,0 +1,948 @@
+<!-- HexicDeluxe Localization Strings -->
+<HexicDeluxe>
+  <bonus_title>
+    <text _locID="bonus_title"><!-- _locComment_text="" -->ボーナス</text>
+    <size _locID="bonus_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="bonus_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>  
+  </bonus_title>
+  <combo_title>
+    <text _locID="combo_title"><!-- _locComment_text="" -->　
+残りのコンボ</text>
+    <size _locID="combo_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="combo_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </combo_title>
+  <level_title>
+    <text _locID="level_title"><!-- _locComment_text="" -->レベル</text>
+    <size _locID="level_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="level_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </level_title>
+  <score_title>
+    <text _locID="score_title"><!-- _locComment_text="" -->スコア</text>
+    <size _locID="score_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="score_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </score_title>
+  <time_title>
+    <text _locID="time_title"><!-- _locComment_text="" -->残り時間</text>
+    <size _locID="time_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="time_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </time_title>
+  <pausebutton_pause>
+    <text _locID="time_title"><!-- _locComment_text="" -->ポーズ</text>
+    <size _locID="time_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="time_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </pausebutton_pause>
+
+
+  <gameend_gameover>
+    <text _locID="GameOverHeader"><!-- _locComment_text="" -->ゲーム オーバー</text>
+    <size _locID="GameOverHeaderSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="GameOverHeaderFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameend_gameover>
+  <gameend_youwin>
+    <text _locID="YouWinHeader"><!-- _locComment_text="" -->ゲーム クリア!</text>
+    <size _locID="YouWinHeaderSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="YouWinHeaderFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameend_youwin>
+
+  <gameendinfo_bomb>
+    <text _locID="Wait"><!-- _locComment_text="" -->爆弾が爆発してしまいました!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameendinfo_bomb>
+  <gameendinfo_time>
+    <text _locID="Wait"><!-- _locComment_text="" -->時間切れです!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameendinfo_time>
+  <gameendinfo_pearlcluster>
+    <text _locID="Wait"><!-- _locComment_text="" -->ブラックパールクラスター!!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameendinfo_pearlcluster>
+  <gameendinfo_pearlflower>
+    <text _locID="Wait"><!-- _locComment_text="" -->ブラックパールフラワー!!!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameendinfo_pearlflower>
+  <gameendinfo_nomoves>
+    <text _locID="GameEndInfo_NoMoves"><!-- _locComment_text="" -->これ以上動かせません!!</text>
+    <size _locID="GameEndInfo_NoMovesSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="GameEndInfo_NoMovesFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameendinfo_nomoves> 
+  <gameendinfo_allremoved>
+    <text _locID="gameendinfo_allremoved"><!-- _locComment_text="" -->すべてのタイルが削除されました!</text>
+    <size _locID="gameendinfo_allremovedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="gameendinfo_allremovedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameendinfo_allremoved> 
+  <gameendinfo_survived>
+    <text _locID="gameendinfo_survived"><!-- _locComment_text="" -->サバイバル モード クリア!</text>
+    <size _locID="gameendinfo_survivedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="gameendinfo_survivedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameendinfo_survived> 
+
+  <gameend_piececount>
+    <text _locID="Wait"><!-- _locComment_text="" -->総タイル数 :</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameend_piececount>
+  <gameend_score>
+    <text _locID="Wait"><!-- _locComment_text="" -->最終スコア :</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameend_score>
+  <gameend_time>
+    <text _locID="GameEndTime"><!-- _locComment_text="" -->総プレイ時間 :</text>
+    <size _locID="GameEndTimeSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="GameEndTimeFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gameend_time>
+
+
+
+  <plume_levelup>
+    <text _locID="Wait"><!-- _locComment_text="" -->レベル アップ!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </plume_levelup>
+
+
+  <pause_header>
+    <text _locID="Wait"><!-- _locComment_text="" -->ポーズ</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->36</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </pause_header>
+
+
+
+  <nomoves_text>
+    <text _locID="Wait"><!-- _locComment_text="" -->これ以上動かせません!
+タイルを並べ替えます...</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </nomoves_text>
+
+
+
+  <popup_continueButton>
+    <text _locID="Wait"><!-- _locComment_text="" -->続行</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </popup_continueButton>
+
+
+
+	<playagain_button>
+		<text _locID="playagain_button"><!-- _locComment_text="" -->続行</text>
+		<size _locID="playagain_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="playagain_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</playagain_button>
+
+
+  <modeButton_normal>
+    <text _locID="Wait"><!-- _locComment_text="" -->マラソン モード</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </modeButton_normal>
+  <modeButton_timed>
+    <text _locID="Wait"><!-- _locComment_text="" -->タイマー モード</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </modeButton_timed>
+  <modeButton_survival>
+    <text _locID="Wait"><!-- _locComment_text="" -->サバイバル モード</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </modeButton_survival>
+  <menuButton_resume>
+    <text _locID="menuButton_resume"><!-- _locComment_text="" -->ゲームの再開</text>
+    <size _locID="menuButton_resumeSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_resumeFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </menuButton_resume>
+  <menuButton_options>
+    <text _locID="menuButton_options"><!-- _locComment_text="" -->オプション</text>
+    <size _locID="menuButton_optionsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_optionsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </menuButton_options>
+  <menuButton_leaderboard>
+    <text _locID="menuButton_highscores"><!-- _locComment_text="" -->ランキング</text>
+    <size _locID="menuButton_highscoresSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_highscoresFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </menuButton_leaderboard>
+  <menuButton_tutorial>
+    <text _locID="menuButton_tutorial"><!-- _locComment_text="" -->ゲームの攻略法</text>
+    <size _locID="menuButton_tutorialSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_tutorialFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </menuButton_tutorial>
+  <menuButton_exit>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->Arcade メニューに戻る</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </menuButton_exit>
+  <menuButton_exittodash>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->終了</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </menuButton_exittodash>
+  <menuButton_exitpause>
+    <text _locID="Wait"><!-- _locComment_text="" -->メイン メニュー</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </menuButton_exitpause>
+  <menuButton_achievements>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->実績</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </menuButton_achievements>
+
+
+
+	<header_difficulty_marathon>
+		<text _locID="header_difficulty_marathon"><!-- _locComment_text="" -->マラソン モードの難易度</text>
+		<size _locID="header_difficulty_marathonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_marathonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</header_difficulty_marathon>
+	<header_difficulty_timed>
+		<text _locID="header_difficulty_timed"><!-- _locComment_text="" -->タイマー モードの難易度</text>
+		<size _locID="header_difficulty_timedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_timedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</header_difficulty_timed>
+	<header_difficulty_survival>
+		<text _locID="header_difficulty_survival"><!-- _locComment_text="" -->サバイバル モードの難易度</text>
+		<size _locID="header_difficulty_survivalSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_survivalFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</header_difficulty_survival>
+	<difficultyButton_easy>
+		<text _locID="difficultyButton_easy"><!-- _locComment_text="" -->ノーマル</text>
+		<size _locID="difficultyButton_easySize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_easyFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</difficultyButton_easy>
+	<difficultyButton_medium>
+		<text _locID="difficultyButton_medium"><!-- _locComment_text="" -->ハード</text>
+		<size _locID="difficultyButton_mediumSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_mediumFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</difficultyButton_medium>
+	<difficultyButton_hard>
+		<text _locID="difficultyButton_hard"><!-- _locComment_text="" -->エキスパート</text>
+		<size _locID="difficultyButton_hardSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_hardFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</difficultyButton_hard>
+	<difficultyButton_cancel>
+		<text _locID="difficultyButton_cancel"><!-- _locComment_text="" -->戻る</text>
+		<size _locID="difficultyButton_cancelSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_cancelFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</difficultyButton_cancel>
+
+
+	<options_header>
+		<text _locID="options_header"><!-- _locComment_text="" -->ゲーム オプション</text>
+		<size _locID="options_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->24</size>
+		<font _locID="options_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</options_header>
+	<optionsButton_defaults>
+		<text _locID="optionsButton_defaults"><!-- _locComment_text="" -->初期設定に戻す</text>
+		<size _locID="optionsButton_defaultsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_defaultsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</optionsButton_defaults>
+	<optionsButton_credits>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->クレジット</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</optionsButton_credits>
+	<optionsButton_controls>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->操作方法</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</optionsButton_controls>
+	<optionsButton_about>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->Hexic HD について</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</optionsButton_about>
+	<optionsButton_return>
+		<text _locID="optionsButton_return"><!-- _locComment_text="" -->完了</text>
+		<size _locID="optionsButton_returnSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsButton_returnFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</optionsButton_return>
+	<optionsText_sfx>
+		<text _locID="optionsText_sfx"><!-- _locComment_text="" -->効果音のボリューム</text>
+		<size _locID="optionsText_sfxSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsText_sfxFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</optionsText_sfx>
+	<optionsText_music>
+		<text _locID="optionsText_music"><!-- _locComment_text="" -->ミュージックのボリューム</text>
+		<size _locID="optionsText_musicSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsText_musicFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</optionsText_music>
+	<optionsText_patterns>
+		<text _locID="optionsText_patterns"><!-- _locComment_text="" -->パターン</text>
+		<size _locID="optionsText_patternsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="optionsText_patternsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</optionsText_patterns>
+
+
+	<credits_header>
+		<text _locID="credits_header"><!-- _locComment_text="" -->クレジット</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</credits_header>
+	<credits_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->戻る</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</credits_back>
+	<controls_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->戻る</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</controls_back>
+	<about_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->戻る</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</about_back>
+
+	<highscores_beginner>
+		<text _locID="highscores_beginner"><!-- _locComment_text="" -->ノーマル</text>
+		<size _locID="highscores_beginnerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_beginnerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</highscores_beginner>
+	<highscores_intermediate>
+		<text _locID="highscores_intermediate"><!-- _locComment_text="" -->ハード</text>
+		<size _locID="highscores_intermediateSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_intermediateFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</highscores_intermediate>
+	<highscores_expert>
+		<text _locID="highscores_expert"><!-- _locComment_text="" -->エキスパート</text>
+		<size _locID="highscores_expertSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_expertFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</highscores_expert>
+
+	<nameEntry_header>
+		<text _locID="nameEntry_header"><!-- _locComment_text="" -->ハイスコア更新</text>
+		<size _locID="nameEntry_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="nameEntry_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</nameEntry_header>
+	<nameEntry_newscore>
+		<text _locID="nameEntry_body1"><!-- _locComment_text="" -->おめでとう! Xbox Live ランキングのハイスコアを更新しました!!</text>
+		<size _locID="nameEntry_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="nameEntry_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</nameEntry_newscore>
+	<nameEntry_signin>
+		<text _locID="nameEntry_body1"><!-- _locComment_text="" -->おめでとう! ハイスコアを更新しました!! スコアを登録するには、Xbox ガイド ボタンを押して Xbox Live にログインしてください。</text>
+		<size _locID="nameEntry_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="nameEntry_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</nameEntry_signin>	
+
+	<tutorial_header>
+		<text _locID="tutorial_header"><!-- _locComment_text="" -->Hexic のプレイ方法</text>
+		<size _locID="tutorial_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="tutorial_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_header>
+	<tutorial_marathon_text>
+		<text _locID="tutorial_marathon_text"><!-- _locComment_text="" -->Hexic の決定版!
+なかなか手に入らないブラックパールで
+クラスターを作ることができるかな?</text>
+		<size _locID="tutorial_marathon_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_marathon_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_marathon_text>
+	<tutorial_timed_text>
+		<text _locID="tutorial_timed_text"><!-- _locComment_text="" -->これは時間との戦い。
+時間切れになる前にタイルを消そう!</text>
+		<size _locID="tutorial_timed_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_timed_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_timed_text>
+	<tutorial_survival_text>
+		<text _locID="tutorial_survival_text"><!-- _locComment_text="" -->慎重に作戦を立てて、すべてのタイルを
+ボードから消そう!</text>
+		<size _locID="tutorial_survival_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_survival_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_survival_text>
+	<tutorial_tips_text>
+		<text _locID="tutorial_tips_text"><!-- _locComment_text="" -->Hexic の攻略法をマスターしよう!</text>
+		<size _locID="tutorial_tips_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_tips_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_tips_text>
+	<tutorial_marathon_button>
+		<text _locID="tutorial_marathon_button"><!-- _locComment_text="" -->マラソン</text>
+		<size _locID="tutorial_marathon_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_marathon_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_marathon_button>
+	<tutorial_timed_button>
+		<text _locID="tutorial_timed_button"><!-- _locComment_text="" -->タイマー</text>
+		<size _locID="tutorial_timed_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_timed_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_timed_button>
+	<tutorial_survival_button>
+		<text _locID="tutorial_survival_button"><!-- _locComment_text="" -->サバイバル</text>
+		<size _locID="tutorial_survival_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_survival_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_survival_button>
+	<tutorial_tips_button>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->ヒント</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_tips_button>
+	<tutorial_back_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->戻る</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_back_text>
+	<tutorial_next_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->次のページ</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_next_text>	
+	<tutorial_backmenu_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->メニュー</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tutorial_backmenu_text>	
+
+	<mara_hdr>
+		<text _locID="mara_hdr"><!-- _locComment_text="" -->マラソン モード</text>
+		<size _locID="mara_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="mara_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</mara_hdr>
+	<mara_1_body1>
+		<text _locID="mara_1_body1"><!-- _locComment_text="" -->隣り合う 3 つのタイルを選択して A ボタンを押すと右方向に、X ボタンを押すと左方向に回転します。また、右または左トリガでも回転させることができます。タイルのかたまりは、3 つのタイルのうちの 1 つのタイルが、隣接する同じ色の 2 つのタイルに触れる、または元の位置に戻るまで回転します。</text>
+		<size _locID="mara_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</mara_1_body1>
+	<mara_1_body2>
+		<text _locID="mara_1_body2"><!-- _locComment_text="" -->いずれかのタイルが、隣接する同じ色の 2 つのタイルに触れると、ボードからクラスターが消えます。</text>
+		<size _locID="mara_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</mara_1_body2>
+	<mara_2_body1>
+		<text _locID="mara_2_body1"><!-- _locComment_text="" -->ボーナスタイルでクラスターを作ってボーナス ポイントをゲットしよう。</text>
+		<size _locID="mara_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</mara_2_body1>
+	<mara_2_body2>
+		<text _locID="mara_2_body2"><!-- _locComment_text="" -->爆弾に注意! クリックするごとに、爆弾の中の数字が減っていきます。数字がゼロになったら、ゲーム オーバー!</text>
+		<size _locID="mara_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</mara_2_body2>
+	<mara_3_body1>
+		<text _locID="mara_3_body1"><!-- _locComment_text="" -->1 つのタイルを 6 つの同じ色のタイルで囲んでフラワーを作ると、スターができ、ボーナス ポイントをゲット! スターで一気にタイルを回転させよう!</text>
+		<size _locID="mara_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</mara_3_body1>
+	<mara_3_body2>
+		<text _locID="mara_3_body2"><!-- _locComment_text="" -->1 つのタイルを 6 つのスターで囲むと、スターは消えて中央のタイルがブラックパールに変わります!</text>
+		<size _locID="mara_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</mara_3_body2>
+	<mara_3_body3>
+		<text _locID="mara_3_body3"><!-- _locComment_text="" -->ブラックパールでクラスターかフラワーを完成させれば勝ちです!</text>
+		<size _locID="mara_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</mara_3_body3>
+
+	<time_hdr>
+		<text _locID="time_hdr"><!-- _locComment_text="" -->タイマー モード</text>
+		<size _locID="time_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="time_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</time_hdr>
+	<time_1_body1>
+		<text _locID="time_1_body1"><!-- _locComment_text="" -->隣り合う 3 つのタイルを選択して A ボタンを押すと右方向に、X ボタンを押すと左方向に回転します。また、右または左トリガでも回転させることができます。タイルのかたまりは、3 つのタイルのうちの 1 つのタイルが、隣接する同じ色の 2 つのタイルに触れる、または元の位置に戻るまで回転します。</text>
+		<size _locID="time_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</time_1_body1>
+	<time_1_body2>
+		<text _locID="time_1_body2"><!-- _locComment_text="" -->いずれかのタイルが、隣接する同じ色の 2 つのタイルに触れると、ボードからクラスターが消えます。</text>
+		<size _locID="time_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</time_1_body2>
+	<time_2_body1>
+		<text _locID="time_2_body1"><!-- _locComment_text="" -->タイマーに注意! クラスターを作ると制限時間が少し延びますが、クラスターを作れないと、残り時間がどんどん減っていきます!</text>
+		<size _locID="time_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</time_2_body1>
+	<time_2_body2>
+		<text _locID="time_2_body2"><!-- _locComment_text="" -->ボーナスタイルでクラスターを作ってボーナス ポイントをゲットしよう。</text>
+		<size _locID="time_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</time_2_body2>
+	<time_3_body1>
+		<text _locID="time_3_body1"><!-- _locComment_text="" -->1 つのタイルを 6 つの同じ色のタイルで囲んで、スターを作ろう。スターを作るとタイムがリセットされ、制限時間が長くなります!</text>
+		<size _locID="time_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</time_3_body1>
+
+	<surv_hdr>
+		<text _locID="surv_hdr"><!-- _locComment_text="" -->サバイバル モード</text>
+		<size _locID="surv_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="surv_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_hdr>
+	<surv_1_body1>
+		<text _locID="surv_1_body1"><!-- _locComment_text="" -->隣り合う 3 つのタイルを選択して A ボタンを押すと右方向に、X ボタンを押すと左方向に回転します。また、右または左トリガでも回転させることができます。タイルのかたまりは、3 つのタイルのうちの 1 つのタイルが、隣接する同じ色の 2 つのタイルに触れる、または元の位置に戻るまで回転します。</text>
+		<size _locID="surv_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_1_body1>
+	<surv_1_body2>
+		<text _locID="surv_1_body2"><!-- _locComment_text="" -->いずれかのタイルが、隣接する同じ色の 2 つのタイルに触れると、ボードからクラスターが消えます。</text>
+		<size _locID="surv_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_1_body2>
+	<surv_1_body3>
+		<text _locID="surv_1_body3"><!-- _locComment_text="" -->ボーナスタイルでクラスターを作ってボーナス ポイントをゲットしよう。</text>
+		<size _locID="surv_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_1_body3>
+	<surv_1_body4>
+		<text _locID="surv_1_body3"><!-- _locComment_text="" -->すべてのタイルを消せば勝ちです!</text>
+		<size _locID="surv_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_1_body4>
+	<surv_2_body1>
+		<text _locID="surv_2_body1"><!-- _locComment_text="" -->タイルを消した場所に新しいタイルが現れることはありません。タイルを動かせなくなるまでクラスターを作ろう。動かせなくなると、残ったタイルがロックされ新しいタイルが落ちてきます。そこからは次のステージのスタート!</text>
+		<size _locID="surv_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_2_body1>
+	<surv_2_body2>
+		<text _locID="surv_2_body2"><!-- _locComment_text="" -->注意! ロックされたタイルでボードがいっぱいになったらゲーム オーバー!</text>
+		<size _locID="surv_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_2_body2>
+	<surv_3_body1>
+		<text _locID="surv_3_body1"><!-- _locComment_text="" -->ロックされたタイルは動かせませんが、クラスターを作るために利用できます。</text>
+		<size _locID="surv_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_3_body1>
+	<surv_3_body2>
+		<text _locID="surv_3_body2"><!-- _locComment_text="" -->ボーナスタイルでクラスターを作ると、その周りにあるロックされたタイルはすべてアンロックされます。</text>
+		<size _locID="surv_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_3_body2>
+	<surv_3_body3>
+		<text _locID="surv_3_body3"><!-- _locComment_text="" -->フラワーを作ると、その中心にあるタイルと同じ色のタイルがすべて消えて、ロックされていたタイルもアンロックされます。 </text>
+		<size _locID="surv_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</surv_3_body3>
+
+	<tip_hdr>
+		<text _locID="tip_hdr"><!-- _locComment_text="" -->Hexic のヒント</text>
+		<size _locID="tip_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="tip_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_hdr>
+	<tip_1_body1>
+		<text _locID="tip_1_body1"><!-- _locComment_text="" -->ヒント</text>
+		<size _locID="tip_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_1_body1>
+	<tip_1_body2>
+		<text _locID="tip_1_body2"><!-- _locComment_text="" -->ボーナスタイルでクラスターを作るときは、タイルは同じ色でなくても OK!</text>
+		<size _locID="tip_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_1_body2>
+	<tip_1_body3>
+		<text _locID="tip_1_body3"><!-- _locComment_text="" -->まずはフラワーを作れそうな同じ色のタイルを探し、最後に周りにある同じ色のタイルをうまく動かして、フラワーを完成させよう!</text>
+		<size _locID="tip_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_1_body3>
+	<tip_1_body4>
+		<text _locID="tip_1_body4"><!-- _locComment_text="" -->作りかけのフラワーの下にはクラスターを作らないように! そうしないと、フラワーのタイルがバラバラになって、もう一度作り直すことになってしまいます。</text>
+		<size _locID="tip_1_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_1_body4>
+	<tip_2_body1>
+		<text _locID="tip_2_body1"><!-- _locComment_text="" -->ヒント</text>
+		<size _locID="tip_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_2_body1>
+	<tip_2_body2>
+		<text _locID="tip_2_body2"><!-- _locComment_text="" -->タイルを色で区別するのが難しい時には、タイルにパターンを追加できます。パターンを追加するには、ゲーム オプション画面でパターン オプションをオンにしよう。</text>
+		<size _locID="tip_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_2_body2>
+	<tip_3_body1>
+		<text _locID="tip_3_body1"><!-- _locComment_text="" -->マラソン モード</text>
+		<size _locID="tip_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_3_body1>
+	<tip_3_body2>
+		<text _locID="tip_3_body2"><!-- _locComment_text="" -->ブラックパールが作りやすくなるように、スターがボードの下のほうに落ちないようにしよう。</text>
+		<size _locID="tip_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_3_body2>
+	<tip_3_body3>
+		<text _locID="tip_3_body3"><!-- _locComment_text="" -->フラワーは色の種類が少ないときのほうが作りやすいので、早めに作り始めよう。</text>
+		<size _locID="tip_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_3_body3>
+	<tip_3_body4>
+		<text _locID="tip_3_body4"><!-- _locComment_text="" -->まずは爆弾を消そう! 爆弾が現れたら、真っ先にボードから消してください。</text>
+		<size _locID="tip_3_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_3_body4>
+	<tip_3_body5>
+		<text _locID="tip_3_body5"><!-- _locComment_text="" -->爆弾の下にクラスターを作って消そう。これで爆弾は 2 つの同じ色のタイルの脇に移動するので、クラスターを作ることができます。</text>
+		<size _locID="tip_3_body5Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body5Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_3_body5>
+	<tip_4_body1>
+		<text _locID="tip_4_body1"><!-- _locComment_text="" -->タイマー モード</text>
+		<size _locID="tip_4_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_4_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_4_body1>
+	<tip_4_body2>
+		<text _locID="tip_4_body2"><!-- _locComment_text="" -->タイマー モードでは時間が限られているため、効率よくクラスターを作ろう。無駄に回転させると、時間が足りなくなります!</text>
+		<size _locID="tip_4_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_4_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_4_body2>
+	<tip_4_body3>
+		<text _locID="tip_4_body3"><!-- _locComment_text="" -->マラソン モードの攻略法をチェックしておこう。これは、タイマー モードでプレイするときにも効果的です!</text>
+		<size _locID="tip_4_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_4_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_4_body3>
+	<tip_5_body1>
+		<text _locID="tip_5_body1"><!-- _locComment_text="" -->サバイバル モード</text>
+		<size _locID="tip_5_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_5_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_5_body1>
+	<tip_5_body2>
+		<text _locID="tip_5_body2"><!-- _locComment_text="" -->まずは周辺部のタイルを消そう。</text>
+		<size _locID="tip_5_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_5_body2>
+	<tip_5_body3>
+		<text _locID="tip_5_body3"><!-- _locComment_text="" -->ロックされたタイルは高く積み上げないようにしよう。</text>
+		<size _locID="tip_5_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_5_body3>
+	<tip_5_body4>
+		<text _locID="tip_5_body4"><!-- _locComment_text="" -->ロックされたタイルはなるべく残さないようにしよう。</text>
+		<size _locID="tip_5_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_5_body4>
+	<tip_5_body5>
+		<text _locID="tip_5_body5"><!-- _locComment_text="" -->ボーナスタイルのクラスターを作ると、周りのロックされたタイルをアンロックできます。</text>
+		<size _locID="tip_5_body5Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body5Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_5_body5>
+	<tip_5_body6>
+		<text _locID="tip_5_body6"><!-- _locComment_text="" -->フラワーを作ってロックされていたタイルをアンロックして、その中心にあるタイルと同じ色のタイルをすべて消そう!</text>
+		<size _locID="tip_5_body6Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body6Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+	</tip_5_body6>
+
+
+  <Tip_0_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->隣り合う 3 つのタイルを選択して A ボタンを押すと右方向に、X ボタンを押すと左方向に回転します。また、右または左トリガでも回転させることができます。タイルのかたまりは、3 つのタイルのうちの 1 つのタイルが、隣接する同じ色の 2 つのタイルに触れる、または元の位置に戻るまで回転します。</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Tip_0_Text>
+  <Tip_1_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->ボーナスタイルを使ってクラスターを作り、ボーナス ポイントをゲットしよう!
+色に関係なく 3 つのボーナスタイルをそろえると、すごいことが起こります!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Tip_1_Text>
+  <Tip_2_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->爆弾に注意! クリックするごとに、爆弾の中の数字が減っていきます。数字がゼロになったら、ゲーム オーバー!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Tip_2_Text>
+  <Tip_3_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->フラワーを作って、ボーナス ポイントをゲットしよう!
+1 つのタイルを同じ色の 6 つのタイルで囲むと、スターができます。スターで一気にタイルを回転させよう!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Tip_3_Text>
+  <Tip_4_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->同じ色の爆弾と 1 つ以上のスター タイルを組み合わせて、クラスターを作ろう。そのクラスターと同じ色のタイルすべてをボードから消すことができる。</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Tip_4_Text>
+  <Tip_5_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->1 つのタイルを 6 つのスターで囲むと、スターは消えて中央のタイルがブラックパールに変わります!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Tip_5_Text>
+  <Tip_6_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->最終レベルに到達しました!
+ブラックパールでクラスターまたはフラワーを作り、ゲームをクリアしよう!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Tip_6_Text>
+  <Tip_Survival_Text>
+    <text _locID="Tip_Survival_Text"><!-- _locComment_text="" -->クラスターを作ってボードからタイルを消そう。タイルをすべて消したら勝ちです!
+消せなかったタイルは、ロックされたまま次のステージに持ち越されるので注意しよう。ボーナスタイルでクラスターを作ると、その周囲のロックされたタイルをアンロックできます。</text>
+    <size _locID="Tip_Survival_TextSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="Tip_Survival_TextFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Tip_Survival_Text>
+
+  <Leaderboard_Marathon_Text>
+    <text _locID=""><!-- _locComment_text="" -->マラソン</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_Marathon_Text>
+  <Leaderboard_Timed_Text>
+    <text _locID=""><!-- _locComment_text="" -->タイマー</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_Timed_Text>
+  <Leaderboard_Survival_Text>
+    <text _locID=""><!-- _locComment_text="" -->サバイバル</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_Survival_Text>
+  <Leaderboard_Sort_Text>
+    <text _locID=""><!-- _locComment_text="" -->表示モード切替</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_Sort_Text>
+  <Leaderboard_FriendScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->フレンド</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_FriendScores_Text>
+  <Leaderboard_MyScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->マイ スコア</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_MyScores_Text>
+  <Leaderboard_TopScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->全体</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_TopScores_Text>
+
+  <rank_text>
+    <text _locID=""><!-- _locComment_text="" -->順位</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </rank_text>
+  <gamertag_text>
+    <text _locID=""><!-- _locComment_text="" -->ゲーマータグ</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </gamertag_text>
+  <score_text>
+    <text _locID=""><!-- _locComment_text="" -->スコア</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </score_text>
+  <difficulty_text>
+    <text _locID=""><!-- _locComment_text="" -->難易度 :</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </difficulty_text>
+  <Leaderboard_NoScoreFriends_Text>
+    <text _locID=""><!-- _locComment_text="" -->フレンドは、まだランキングに
+登録されていません。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_NoScoreFriends_Text>
+  <Leaderboard_NoScoreYou_Text>
+    <text _locID=""><!-- _locComment_text="" -->あなたは、まだランキングに
+登録されていません。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_NoScoreYou_Text>
+  <Leaderboard_NoScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->このランキングには、スコアが
+記録されていません。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_NoScores_Text>  
+  <Leaderboard_Error_Text>
+    <text _locID=""><!-- _locComment_text="" -->ランキング インフォメーション は、現在ご利用いただけません。しばらくしてから、再度お試しください。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_Error_Text>
+  <Leaderboard_SignedIn_Text>
+    <text _locID=""><!-- _locComment_text="" -->サインイン済み :</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </Leaderboard_SignedIn_Text>
+  <leaderboard_score>
+    <text _locID="Wait"><!-- _locComment_text="" -->最終スコア :</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </leaderboard_score>
+
+
+
+  <notsignedintolive_text>
+    <text _locID=""><!-- _locComment_text="" -->ランキングの表示、またはスコアのアップロードには、Xbox Live サービスに
+サインインする必要があります。
+　
+サインインする場合は Xbox ガイド ボタン、戻る場合は B ボタンを押してください。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </notsignedintolive_text>
+  <notsignedintolive_back_text>
+    <text _locID=""><!-- _locComment_text="" -->戻る</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </notsignedintolive_back_text>
+
+  <resumegame_hdr>
+    <text _locID=""><!-- _locComment_text="" -->ゲームを再開しますか?</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->24</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </resumegame_hdr>
+  <resumegame_marathon_body>
+    <text _locID=""><!-- _locComment_text="" -->前回のマラソン モードを続けますか? それとも新しくゲームを始めますか? 新しくゲームを始めると、前回のマラソン モードのゲーム データは消去されます。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </resumegame_marathon_body>
+  <resumegame_timed_body>
+    <text _locID=""><!-- _locComment_text="" -->前回のタイマー モードを続けますか? それとも新しくゲームを始めますか? 新しくゲームを始めると、前回のタイマー モードのゲーム データは消去されます。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </resumegame_timed_body>
+  <resumegame_survival_body>
+    <text _locID=""><!-- _locComment_text="" -->前回のサバイバル モードを続けますか? それとも新しくゲームを始めますか? 新しくゲームを始めると、前回のサバイバル モードのゲーム データは消去されます。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </resumegame_survival_body>
+  <resumegame_yes_text>
+    <text _locID=""><!-- _locComment_text="" -->ゲームの再開</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </resumegame_yes_text>
+  <resumegame_no_text>
+    <text _locID=""><!-- _locComment_text="" -->新しいゲーム</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </resumegame_no_text>
+  
+  <startup_text>
+    <text _locID=""><!-- _locComment_text="" -->A ボタンを押して続けてください</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </startup_text>
+  <startup_profile_text>
+    <text _locID=""><!-- _locComment_text="" -->プレイするにはプロフィールにサインインする必要があります。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </startup_profile_text>
+  <startup_signedout_text>
+    <text _locID=""><!-- _locComment_text="" -->プロフィールからサインアウトしたため、ゲーム データを保存できませんでした。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </startup_signedout_text>
+
+  <main_standardtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->爆弾の動きの 1 つ先を行こう!</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </main_standardtooltip_text>
+  <main_timedtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->時間がなくなる...急いで!</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </main_timedtooltip_text>
+  <main_survivaltooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->使用されないタイルはボードにロックされる!</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </main_survivaltooltip_text>
+  <main_optionstooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->設定を変更しよう</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </main_optionstooltip_text>
+  <main_tutorialtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->ゲームのやり方を学び、いい戦略を見つけよう</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </main_tutorialtooltip_text>
+  <main_leaderboardtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Xbox Live ランキングを見る</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </main_leaderboardtooltip_text>
+  <main_exittooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic を終了し、Arcade メニューに戻る</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </main_exittooltip_text>
+  <main_exittodashtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic を終了する</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </main_exittodashtooltip_text>
+  <main_achievementstip_text>
+    <text _locID=""><!-- _locComment_text="" -->これまでにゲットした実績を確認しよう</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </main_achievementstip_text>  
+
+
+  <controls_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->ゲームの操作方法</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->30</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </controls_hdr_text>
+  <controls_rotateccw_text>
+    <text _locID=""><!-- _locComment_text="" -->左方向に回転</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </controls_rotateccw_text>
+  <controls_rotatecw_text>
+    <text _locID=""><!-- _locComment_text="" -->右方向に回転</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </controls_rotatecw_text>
+  <controls_guide_text>
+    <text _locID=""><!-- _locComment_text="" -->Xbox ガイド ボタン</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </controls_guide_text>
+  <controls_pause_text>
+    <text _locID=""><!-- _locComment_text="" -->ポーズ</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </controls_pause_text>
+  <controls_navigate_text>
+    <text _locID=""><!-- _locComment_text="" -->カーソル移動</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </controls_navigate_text>
+  <controls_back_text>
+    <text _locID=""><!-- _locComment_text="" -->戻る</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </controls_back_text>
+
+  <nohd_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->Xbox 360 ハードディスクが必要です</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </nohd_hdr_text>
+  <nohd_body_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic HD は、Xbox 360 ハードディスクから起動する必要があります。Xbox 360 本体の電源を切り、プレイする前に Xbox 360 ハードディスクを取り付けてください。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </nohd_body_text>
+
+  <fileio_read_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->読み込みエラー</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </fileio_read_hdr_text>
+  <fileio_read_body_text>
+    <text _locID=""><!-- _locComment_text="" -->これまでの Hexic のプレイ結果と設定をプロフィールから読み込めませんでした。A ボタンを押して続けてください。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </fileio_read_body_text>
+  <fileio_write_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->保存エラー</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </fileio_write_hdr_text>
+  <fileio_write_body_text>
+    <text _locID=""><!-- _locComment_text="" -->これまでの Hexic のプレイ結果と設定をプロフィールに保存できませんでした。保存せずに続けるには、A ボタンを押してください。</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </fileio_write_body_text>
+  <fileio_button_text>
+    <text _locID=""><!-- _locComment_text="" -->OK</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>
+  </fileio_button_text>
+
+</HexicDeluxe>

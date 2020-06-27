@@ -1,0 +1,40 @@
+﻿<!-- HexicKiosk Localization Strings -->
+<HexicKiosk>
+  <welcome_header>
+    <text _locID="welcome_header_title"><!-- _locComment_text="" -->Xbox Live® Arcade의 Hexic® HD에 오신 것을 환영합니다!</text>
+    <size _locID="welcome_header_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="welcome_header_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>  
+  </welcome_header>
+  <welcome_body>
+    <text _locID="welcome_body_title"><!-- _locComment_text="" -->Hexic HD는 Tetris®의 제작자가 만든 중독성 강한 퍼즐 게임으로, Xbox 360™의 Xbox Live Arcade에서 즐길 수 있는 많은 재미있는 게임 중 하나입니다. Xbox Live Arcade에서는 Xbox 360 게이머들이 간단히 즐길 수 있는 게임을 무료로 다운로드하여 즐길 수 있습니다. 일부 게임의 정식 버전은 유료로 구입해야 합니다. Xbox Live Arcade는 게임 블레이드의 주 메뉴 중 하나로 Xbox 360 대시보드에서 언제든지 곧바로 Xbox Live Arcade로 이동해서 새로운 게임을 확인하고 다운로드하여 게임을 즐기고 관리할 수 있습니다. 무료로 즐길 수 있는 Xbox Live Arcade의 모든 데모 버전은 Xbox Live 골드 멤버와 실버 멤버 모두 하드 드라이브나 메모리 유닛에 다운로드할 수 있습니다.</text>
+    <size _locID="welcome_body_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="welcome_body_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>  
+  </welcome_body>
+  <welcome_footer>
+    <text _locID="welcome_footer_title"><!-- _locComment_text="" -->Hexic HD 데모 버전을 다운로드하여 즐겁게 즐기시기 바랍니다. Xbox Live Arcade에서 여러분을 뵙기를 기원합니다!</text>
+    <size _locID="welcome_footer_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="welcome_footer_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>  
+  </welcome_footer>
+
+  <continue_button>
+    <text _locID="continue_button_title"><!-- _locComment_text="" -->계속하려면 {A} 단추를 누르십시오.</text>
+    <size _locID="continue_button_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="continue_button_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>  
+  </continue_button>
+
+  <goodbye_header>
+    <text _locID="goodbye_header_title"><!-- _locComment_text="" -->Hexic HD를 즐겨 주셔서 감사합니다!</text>
+    <size _locID="goodbye_header_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="goodbye_header_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>  
+  </goodbye_header>
+  <goodbye_body>
+    <text _locID="goodbye_body_title"><!-- _locComment_text="" -->Hexic HD는 Tetris®의 제작자가 만든 중독성 강한 퍼즐 게임으로, Xbox 360™의 Xbox Live Arcade에서 즐길 수 있는 많은 재미있는 게임 중 하나입니다. Xbox Live Arcade에서는 Xbox 360 게이머들이 간단히 즐길 수 있는 게임을 무료로 다운로드하여 즐길 수 있습니다. 일부 게임의 정식 버전은 유료로 구입해야 합니다. Xbox Live Arcade는 게임 블레이드의 주 메뉴 중 하나로 Xbox 360 대시보드에서 언제든지 곧바로 Xbox Live Arcade로 이동해서 새로운 게임을 확인하고 다운로드하여 게임을 즐기고 관리할 수 있습니다. 무료로 즐길 수 있는 Xbox Live Arcade의 모든 데모 버전은 Xbox Live 골드 멤버와 실버 멤버 모두 하드 드라이브나 메모리 유닛에 다운로드할 수 있습니다.</text>
+    <size _locID="goodbye_body_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="goodbye_body_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>  
+  </goodbye_body>
+  <goodbye_footer>
+    <text _locID="goodbye_footer_title"><!-- _locComment_text="" -->Hexic HD 데모 버전을 다운로드하여 즐겁게 즐기시기 바랍니다. Xbox Live Arcade에서 여러분을 뵙기를 기원합니다!</text>
+    <size _locID="goodbye_footer_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="goodbye_footer_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Korean</font>  
+  </goodbye_footer>
+</HexicKiosk>
