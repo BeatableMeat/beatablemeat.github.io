@@ -1,0 +1,40 @@
+﻿<!-- HexicKiosk Localization Strings -->
+<HexicKiosk>
+  <welcome_header>
+    <text _locID="welcome_header_title"><!-- _locComment_text="" -->歡迎來到 Xbox Live® Arcade 遊戲 - Hexic® HD!</text>
+    <size _locID="welcome_header_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="welcome_header_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </welcome_header>
+  <welcome_body>
+    <text _locID="welcome_body_title"><!-- _locComment_text="" -->由 Tetris® 製作的拼圖遊戲 Hexic HD 是 Xbox 360™ 平台 眾多 Xbox Live Arcade 遊戲其中之一。 在 Xbox Live Arcade 您可以搜尋、下載、試玩或購買好玩的小遊戲,  您可以從 Xbox 360 設定畫面中直接進入 Xbox Live Arcade, 您可以存取並管理您的遊戲收藏, 搜尋有沒有新遊戲發行, 或是下載遊戲, 體驗一下新遊戲的功能。每一款 Xbox Live Arcade 小遊戲都有免費的試玩版, 可供 Xbox Live 金會員或銀會員下載到硬碟或是記憶匣中。</text>
+    <size _locID="welcome_body_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="welcome_body_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </welcome_body>
+  <welcome_footer>
+    <text _locID="welcome_footer_title"><!-- _locComment_text="" -->希望您喜歡免費試玩版的 Hexic HD, 好玩的都在 Arcade 遊戲 !!</text>
+    <size _locID="welcome_footer_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="welcome_footer_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </welcome_footer>
+
+  <continue_button>
+    <text _locID="continue_button_title"><!-- _locComment_text="" -->按 {A} 繼續 !</text>
+    <size _locID="continue_button_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="continue_button_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </continue_button>
+
+  <goodbye_header>
+    <text _locID="goodbye_header_title"><!-- _locComment_text="" -->感謝使用 Xbox Live Arcade 小遊戲 - Hexic HD!</text>
+    <size _locID="goodbye_header_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="goodbye_header_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </goodbye_header>
+  <goodbye_body>
+    <text _locID="goodbye_body_title"><!-- _locComment_text="" -->由 Tetris® 製作的拼圖遊戲 Hexic HD 是 Xbox 360™ 平台 眾多 Xbox Live Arcade 遊戲其中之一。 在 Xbox Live Arcade 您可以搜尋、下載、試玩或購買好玩的小遊戲,  您可以從 Xbox 360 設定畫面中直接進入 Xbox Live Arcade, 您可以存取並管理您的遊戲收藏, 搜尋有沒有新遊戲發行, 或是下載遊戲, 體驗一下新遊戲的功能。每一款 Xbox Live Arcade 小遊戲都有免費的試玩版, 可供 Xbox Live 金會員或銀會員下載到硬碟或是記憶匣中。</text>
+    <size _locID="goodbye_body_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="goodbye_body_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </goodbye_body>
+  <goodbye_footer>
+    <text _locID="goodbye_footer_title"><!-- _locComment_text="" -->希望您喜歡免費試玩版的 Hexic HD, 好玩的都在 Arcade 遊戲 !!</text>
+    <size _locID="goodbye_footer_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="goodbye_footer_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </goodbye_footer>
+</HexicKiosk>

@@ -1,0 +1,937 @@
+<!-- HexicDeluxe Localization Strings -->
+<HexicDeluxe>
+  <bonus_title>
+    <text _locID="bonus_title"><!-- _locComment_text="" -->BÔNUS</text>
+    <size _locID="bonus_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="bonus_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Electrofied</font>  
+  </bonus_title>
+  <combo_title>
+    <text _locID="combo_title"><!-- _locComment_text="" -->COMBOS RESTANTES</text>
+    <size _locID="combo_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="combo_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Electrofied</font>
+  </combo_title>
+  <level_title>
+    <text _locID="level_title"><!-- _locComment_text="" -->NÍVEL</text>
+    <size _locID="level_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="level_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Electrofied</font>
+  </level_title>
+  <score_title>
+    <text _locID="score_title"><!-- _locComment_text="" -->PONTUAÇÃO</text>
+    <size _locID="score_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="score_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </score_title>
+  <time_title>
+    <text _locID="time_title"><!-- _locComment_text="" -->TEMPO</text>
+    <size _locID="time_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="time_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </time_title>
+  <pausebutton_pause>
+    <text _locID="time_title"><!-- _locComment_text="" -->Pausa</text>
+    <size _locID="time_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="time_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </pausebutton_pause>
+
+
+  <gameend_gameover>
+    <text _locID="GameOverHeader"><!-- _locComment_text="" -->Fim do Jogo</text>
+    <size _locID="GameOverHeaderSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="GameOverHeaderFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_gameover>
+  <gameend_youwin>
+    <text _locID="YouWinHeader"><!-- _locComment_text="" -->VOCÊ VENCEU!</text>
+    <size _locID="YouWinHeaderSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="YouWinHeaderFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_youwin>
+
+  <gameendinfo_bomb>
+    <text _locID="Wait"><!-- _locComment_text="" -->Uma bomba explodiu!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_bomb>
+  <gameendinfo_time>
+    <text _locID="Wait"><!-- _locComment_text="" -->Tempo esgotado!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_time>
+  <gameendinfo_pearlcluster>
+    <text _locID="Wait"><!-- _locComment_text="" -->Bloco de Pérolas Negras!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_pearlcluster>
+  <gameendinfo_pearlflower>
+    <text _locID="Wait"><!-- _locComment_text="" -->Flor de pérola negra!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_pearlflower>
+  <gameendinfo_nomoves>
+    <text _locID="GameEndInfo_NoMoves"><!-- _locComment_text="" -->Não há mais movimentos!</text>
+    <size _locID="GameEndInfo_NoMovesSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="GameEndInfo_NoMovesFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_nomoves> 
+  <gameendinfo_allremoved>
+    <text _locID="gameendinfo_allremoved"><!-- _locComment_text="" -->Todas as peças removidas!</text>
+    <size _locID="gameendinfo_allremovedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="gameendinfo_allremovedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_allremoved> 
+  <gameendinfo_survived>
+    <text _locID="gameendinfo_survived"><!-- _locComment_text="" -->Você sobreviveu!</text>
+    <size _locID="gameendinfo_survivedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="gameendinfo_survivedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameendinfo_survived> 
+
+  <gameend_piececount>
+    <text _locID="Wait"><!-- _locComment_text="" -->Número total de peças:</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_piececount>
+  <gameend_score>
+    <text _locID="Wait"><!-- _locComment_text="" -->Pontuação final:</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_score>
+  <gameend_time>
+    <text _locID="GameEndTime"><!-- _locComment_text="" -->Tempo total:</text>
+    <size _locID="GameEndTimeSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="GameEndTimeFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gameend_time>
+
+
+
+  <plume_levelup>
+    <text _locID="Wait"><!-- _locComment_text="" -->Subida de nível!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </plume_levelup>
+
+
+  <pause_header>
+    <text _locID="Wait"><!-- _locComment_text="" -->PAUSA</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->36</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </pause_header>
+
+
+
+  <nomoves_text>
+    <text _locID="Wait"><!-- _locComment_text="" -->Não há mais movimentos!
+Reorganizando as peças...</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </nomoves_text>
+
+
+
+  <popup_continueButton>
+    <text _locID="Wait"><!-- _locComment_text="" -->Continuar</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </popup_continueButton>
+
+
+
+	<playagain_button>
+		<text _locID="playagain_button"><!-- _locComment_text="" -->Continuar</text>
+		<size _locID="playagain_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="playagain_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</playagain_button>
+
+
+  <modeButton_normal>
+    <text _locID="Wait"><!-- _locComment_text="" -->Modo de Maratona</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </modeButton_normal>
+  <modeButton_timed>
+    <text _locID="Wait"><!-- _locComment_text="" -->Modo Cronometrado</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </modeButton_timed>
+  <modeButton_survival>
+    <text _locID="Wait"><!-- _locComment_text="" -->Modo de Sobrevivência</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </modeButton_survival>
+  <menuButton_resume>
+    <text _locID="menuButton_resume"><!-- _locComment_text="" -->Voltar ao Jogo</text>
+    <size _locID="menuButton_resumeSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_resumeFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_resume>
+  <menuButton_options>
+    <text _locID="menuButton_options"><!-- _locComment_text="" -->Opções</text>
+    <size _locID="menuButton_optionsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_optionsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_options>
+  <menuButton_leaderboard>
+    <text _locID="menuButton_highscores"><!-- _locComment_text="" -->Marcadores</text>
+    <size _locID="menuButton_highscoresSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_highscoresFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_leaderboard>
+  <menuButton_tutorial>
+    <text _locID="menuButton_tutorial"><!-- _locComment_text="" -->Modo de Usar e Dicas</text>
+    <size _locID="menuButton_tutorialSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_tutorialFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_tutorial>
+  <menuButton_exit>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->Voltar ao Menu Arcade</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_exit>
+  <menuButton_exittodash>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->Menu Xbox</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_exittodash>
+  <menuButton_exitpause>
+    <text _locID="Wait"><!-- _locComment_text="" -->Menu Principal</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_exitpause>
+  <menuButton_achievements>
+    <text _locID="menuButton_exit"><!-- _locComment_text="" -->Conquistas</text>
+    <size _locID="menuButton_exitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="menuButton_exitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </menuButton_achievements>
+
+
+
+	<header_difficulty_marathon>
+		<text _locID="header_difficulty_marathon"><!-- _locComment_text="" -->Escolher a Dificuldade da Maratona</text>
+		<size _locID="header_difficulty_marathonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_marathonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</header_difficulty_marathon>
+	<header_difficulty_timed>
+		<text _locID="header_difficulty_timed"><!-- _locComment_text="" -->Escolher a Dificuldade Cronometrada</text>
+		<size _locID="header_difficulty_timedSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_timedFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</header_difficulty_timed>
+	<header_difficulty_survival>
+		<text _locID="header_difficulty_survival"><!-- _locComment_text="" -->Escolher a Dificuldade de Sobrevivência</text>
+		<size _locID="header_difficulty_survivalSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="header_difficulty_survivalFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</header_difficulty_survival>
+	<difficultyButton_easy>
+		<text _locID="difficultyButton_easy"><!-- _locComment_text="" -->Normal</text>
+		<size _locID="difficultyButton_easySize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_easyFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</difficultyButton_easy>
+	<difficultyButton_medium>
+		<text _locID="difficultyButton_medium"><!-- _locComment_text="" -->Difícil</text>
+		<size _locID="difficultyButton_mediumSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_mediumFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</difficultyButton_medium>
+	<difficultyButton_hard>
+		<text _locID="difficultyButton_hard"><!-- _locComment_text="" -->Expert</text>
+		<size _locID="difficultyButton_hardSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_hardFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</difficultyButton_hard>
+	<difficultyButton_cancel>
+		<text _locID="difficultyButton_cancel"><!-- _locComment_text="" -->Voltar</text>
+		<size _locID="difficultyButton_cancelSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="difficultyButton_cancelFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</difficultyButton_cancel>
+
+
+	<options_header>
+		<text _locID="options_header"><!-- _locComment_text="" -->OPÇÕES DE JOGO</text>
+		<size _locID="options_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->24</size>
+		<font _locID="options_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</options_header>
+	<optionsButton_defaults>
+		<text _locID="optionsButton_defaults"><!-- _locComment_text="" -->Valores Predeterminados</text>
+		<size _locID="optionsButton_defaultsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="optionsButton_defaultsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_defaults>
+	<optionsButton_credits>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->Créditos</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_credits>
+	<optionsButton_controls>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->Controles</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_controls>
+	<optionsButton_about>
+		<text _locID="optionsButton_credits"><!-- _locComment_text="" -->Sobre o Jogo</text>
+		<size _locID="optionsButton_creditsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="optionsButton_creditsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_about>
+	<optionsButton_return>
+		<text _locID="optionsButton_return"><!-- _locComment_text="" -->Concluido</text>
+		<size _locID="optionsButton_returnSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="optionsButton_returnFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsButton_return>
+	<optionsText_sfx>
+		<text _locID="optionsText_sfx"><!-- _locComment_text="" -->Volume dos Efeitos Especiais</text>
+		<size _locID="optionsText_sfxSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="optionsText_sfxFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsText_sfx>
+	<optionsText_music>
+		<text _locID="optionsText_music"><!-- _locComment_text="" -->Volume da Música</text>
+		<size _locID="optionsText_musicSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="optionsText_musicFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsText_music>
+	<optionsText_patterns>
+		<text _locID="optionsText_patterns"><!-- _locComment_text="" -->Padrão</text>
+		<size _locID="optionsText_patternsSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="optionsText_patternsFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</optionsText_patterns>
+
+
+	<credits_header>
+		<text _locID="credits_header"><!-- _locComment_text="" -->CRÉDITOS</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</credits_header>
+	<credits_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->Voltar</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</credits_back>
+	<controls_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->Voltar</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</controls_back>
+	<about_back>
+		<text _locID="credits_header"><!-- _locComment_text="" -->Voltar</text>
+		<size _locID="credits_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="credits_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</about_back>
+
+	<highscores_beginner>
+		<text _locID="highscores_beginner"><!-- _locComment_text="" -->Normal</text>
+		<size _locID="highscores_beginnerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_beginnerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</highscores_beginner>
+	<highscores_intermediate>
+		<text _locID="highscores_intermediate"><!-- _locComment_text="" -->Difícil</text>
+		<size _locID="highscores_intermediateSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_intermediateFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</highscores_intermediate>
+	<highscores_expert>
+		<text _locID="highscores_expert"><!-- _locComment_text="" -->Expert</text>
+		<size _locID="highscores_expertSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="highscores_expertFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</highscores_expert>
+
+	<nameEntry_header>
+		<text _locID="nameEntry_header"><!-- _locComment_text="" -->NOVA PONTUAÇÃO MAIS ALTA</text>
+		<size _locID="nameEntry_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="nameEntry_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</nameEntry_header>
+	<nameEntry_newscore>
+		<text _locID="nameEntry_body1"><!-- _locComment_text="" -->Parabéns! Você teve sua pontuação adicionada aos Marcadores Xbox Live!!</text>
+		<size _locID="nameEntry_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="nameEntry_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</nameEntry_newscore>
+	<nameEntry_signin>
+		<text _locID="nameEntry_body1"><!-- _locComment_text="" -->Parabéns! Você tem uma nova pontuação alta! Pressione o botão Painel Xbox para se conectar ao Xbox Live e adicionar a pontuação!!</text>
+		<size _locID="nameEntry_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="nameEntry_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</nameEntry_signin>	
+
+	<tutorial_header>
+		<text _locID="tutorial_header"><!-- _locComment_text="" -->Como Jogar Hexic</text>
+		<size _locID="tutorial_headerSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="tutorial_headerFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_header>
+	<tutorial_marathon_text>
+		<text _locID="tutorial_marathon_text"><!-- _locComment_text="" -->O clássico Hexic! Você consegue agrupar as pérolas fujonas?</text>
+		<size _locID="tutorial_marathon_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_marathon_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_marathon_text>
+	<tutorial_timed_text>
+		<text _locID="tutorial_timed_text"><!-- _locComment_text="" -->É você contra o relógio! Junte rápido antes que acabe o tempo!</text>
+		<size _locID="tutorial_timed_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_timed_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_timed_text>
+	<tutorial_survival_text>
+		<text _locID="tutorial_survival_text"><!-- _locComment_text="" -->Planeje seus movimentos e tente esvaziar o tabuleiro!</text>
+		<size _locID="tutorial_survival_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_survival_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_survival_text>
+	<tutorial_tips_text>
+		<text _locID="tutorial_tips_text"><!-- _locComment_text="" -->Dicas e truques para vencer no Hexic!</text>
+		<size _locID="tutorial_tips_textSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->15</size>
+		<font _locID="tutorial_tips_textFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_tips_text>
+	<tutorial_marathon_button>
+		<text _locID="tutorial_marathon_button"><!-- _locComment_text="" -->Maratona</text>
+		<size _locID="tutorial_marathon_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_marathon_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_marathon_button>
+	<tutorial_timed_button>
+		<text _locID="tutorial_timed_button"><!-- _locComment_text="" -->Cronometrado</text>
+		<size _locID="tutorial_timed_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_timed_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_timed_button>
+	<tutorial_survival_button>
+		<text _locID="tutorial_survival_button"><!-- _locComment_text="" -->Sobrevivência</text>
+		<size _locID="tutorial_survival_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_survival_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_survival_button>
+	<tutorial_tips_button>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->Dicas</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_tips_button>
+	<tutorial_back_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->Voltar</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_back_text>
+	<tutorial_next_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->Próxima Página</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_next_text>	
+	<tutorial_backmenu_text>
+		<text _locID="tutorial_tips_button"><!-- _locComment_text="" -->Menu</text>
+		<size _locID="tutorial_tips_buttonSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+		<font _locID="tutorial_tips_buttonFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tutorial_backmenu_text>	
+
+	<mara_hdr>
+		<text _locID="mara_hdr"><!-- _locComment_text="" -->MODO DE MARATONA</text>
+		<size _locID="mara_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="mara_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_hdr>
+	<mara_1_body1>
+		<text _locID="mara_1_body1"><!-- _locComment_text="" -->Selecione três peças adjacentes. Pressione A para girar o grupo no sentido do relógio, ou X no sentido contrário. As peças continuarão a girar até tocar duas peças iguais, ou até voltar a suas posições originais.</text>
+		<size _locID="mara_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_1_body1>
+	<mara_1_body2>
+		<text _locID="mara_1_body2"><!-- _locComment_text="" -->Se uma peça tocar outras duas iguais a ela, o grupo desaparecerá e as peças que há sobre ela cairão.</text>
+		<size _locID="mara_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_1_body2>
+	<mara_2_body1>
+		<text _locID="mara_2_body1"><!-- _locComment_text="" -->Forme grupos usando estrelas e ganhe pontos extras.</text>
+		<size _locID="mara_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_2_body1>
+	<mara_2_body2>
+		<text _locID="mara_2_body2"><!-- _locComment_text="" -->Cuidado com as bombas! Com cada movimento seu a bomba inicia contagem regressiva. Use a bomba em um grupo antes que ela chegue a zero ou senão o jogo acaba.</text>
+		<size _locID="mara_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_2_body2>
+	<mara_3_body1>
+		<text _locID="mara_3_body1"><!-- _locComment_text="" -->Para ganhar mais pontos, ponha 6 peças em torno a uma peça de mesma cor, criando uma flor-estrela. A flor-estrela gira de forma aleatória!</text>
+		<size _locID="mara_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_3_body1>
+	<mara_3_body2>
+		<text _locID="mara_3_body2"><!-- _locComment_text="" -->Cerque uma peça com 6 flores-estrela. As flores-estrela somem, e no centro aparece uma pérola negra especial!</text>
+		<size _locID="mara_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_3_body2>
+	<mara_3_body3>
+		<text _locID="mara_3_body3"><!-- _locComment_text="" -->Crie um grupo ou uma flor de pérolas negras para vencer!</text>
+		<size _locID="mara_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="mara_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</mara_3_body3>
+
+	<time_hdr>
+		<text _locID="time_hdr"><!-- _locComment_text="" -->MODO CRONOMETRADO</text>
+		<size _locID="time_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="time_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_hdr>
+	<time_1_body1>
+		<text _locID="time_1_body1"><!-- _locComment_text="" -->Selecione três peças adjacentes. Pressione A para girar o grupo no sentido do relógio, ou X no sentido contrário. As peças continuarão a girar até tocar duas peças iguais, ou até voltar a suas posições originais.</text>
+		<size _locID="time_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_1_body1>
+	<time_1_body2>
+		<text _locID="time_1_body2"><!-- _locComment_text="" -->Se uma peça tocar outras duas iguais a ela, o grupo desaparecerá e as peças que há sobre ela cairão.</text>
+		<size _locID="time_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_1_body2>
+	<time_2_body1>
+		<text _locID="time_2_body1"><!-- _locComment_text="" -->Cuidado com o cronômetro! Você ganha tempo ao criar grupos, mas perde se realizar movimentos desnecessários!</text>
+		<size _locID="time_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_2_body1>
+	<time_2_body2>
+		<text _locID="time_2_body2"><!-- _locComment_text="" -->Forme grupos usando estrelas e ganhe pontos extras.</text>
+		<size _locID="time_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_2_body2>
+	<time_3_body1>
+		<text _locID="time_3_body1"><!-- _locComment_text="" -->Para ganhar mais tempo e reiniciar o cronômetro, coloque seis peças em torno de uma peça de mesma cor, criando uma flor-estrela.</text>
+		<size _locID="time_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="time_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</time_3_body1>
+
+	<surv_hdr>
+		<text _locID="surv_hdr"><!-- _locComment_text="" -->MODO DE SOBREVIVÊNCIA</text>
+		<size _locID="surv_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="surv_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_hdr>
+	<surv_1_body1>
+		<text _locID="surv_1_body1"><!-- _locComment_text="" -->Selecione três peças adjacentes. Pressione A para girar o grupo no sentido do relógio, ou X no sentido contrário. As peças continuarão a girar até tocar duas peças iguais, ou até voltar a suas posições originais.</text>
+		<size _locID="surv_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_1_body1>
+	<surv_1_body2>
+		<text _locID="surv_1_body2"><!-- _locComment_text="" -->Se uma peça tocar outras duas iguais a ela, o grupo desaparecerá e as peças que há sobre ela cairão.</text>
+		<size _locID="surv_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_1_body2>
+	<surv_1_body3>
+		<text _locID="surv_1_body3"><!-- _locComment_text="" -->Forme grupos usando estrelas e ganhe pontos extras.</text>
+		<size _locID="surv_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_1_body3>
+	<surv_1_body4>
+		<text _locID="surv_1_body3"><!-- _locComment_text="" -->Esvazie o tabuleiro para vencer!</text>
+		<size _locID="surv_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_1_body4>
+	<surv_2_body1>
+		<text _locID="surv_2_body1"><!-- _locComment_text="" -->As peças retiradas do tabuleiro não são substituídas. Continue fazendo grupos até não ter mais movimentos disponíveis. Quando isto acontecer, as peças que sobraram se fixam onde estavam e novas peças caem para iniciar a próxima rodada.</text>
+		<size _locID="surv_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_2_body1>
+	<surv_2_body2>
+		<text _locID="surv_2_body2"><!-- _locComment_text="" -->Cuidado! O jogo termina quando o tabuleiro estiver cheio de peças fixas!</text>
+		<size _locID="surv_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_2_body2>
+	<surv_3_body1>
+		<text _locID="surv_3_body1"><!-- _locComment_text="" -->Você não pode mover peças fixas. Mas você pode utilizá-las para criar grupos.</text>
+		<size _locID="surv_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_3_body1>
+	<surv_3_body2>
+		<text _locID="surv_3_body2"><!-- _locComment_text="" -->Crie um grupo de estrelas para soltar todas as peças em torno deste grupo!</text>
+		<size _locID="surv_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_3_body2>
+	<surv_3_body3>
+		<text _locID="surv_3_body3"><!-- _locComment_text="" -->Ao criar uma flor, todas as peças de mesma cor que o centro são removidas do tabuleiro e todas as peças fixas são soltas.</text>
+		<size _locID="surv_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="surv_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</surv_3_body3>
+
+	<tip_hdr>
+		<text _locID="tip_hdr"><!-- _locComment_text="" -->DICAS HEXIC</text>
+		<size _locID="tip_hdrSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+		<font _locID="tip_hdrFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_hdr>
+	<tip_1_body1>
+		<text _locID="tip_1_body1"><!-- _locComment_text="" -->Dicas Gerais</text>
+		<size _locID="tip_1_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_1_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_1_body1>
+	<tip_1_body2>
+		<text _locID="tip_1_body2"><!-- _locComment_text="" -->As peças bônus (estrelas) não precisam ser todas da mesma cor para criarem um grupo.</text>
+		<size _locID="tip_1_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_1_body2>
+	<tip_1_body3>
+		<text _locID="tip_1_body3"><!-- _locComment_text="" -->Procure peças de mesma cor que estejam formando uma flor parcial. Então, manobre outras peças de mesma cor para criar uma flor completa.</text>
+		<size _locID="tip_1_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_1_body3>
+	<tip_1_body4>
+		<text _locID="tip_1_body4"><!-- _locComment_text="" -->Não crie grupos abaixo da flor que você estiver criando. As peças da flor saem de suas posições, e você vai ter de começar tudo de novo.</text>
+		<size _locID="tip_1_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_1_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_1_body4>
+	<tip_2_body1>
+		<text _locID="tip_2_body1"><!-- _locComment_text="" -->Dicas Gerais</text>
+		<size _locID="tip_2_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_2_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_2_body1>
+	<tip_2_body2>
+		<text _locID="tip_2_body2"><!-- _locComment_text="" -->Se você tiver dificulade de distinguir entre as diferentes cores, você pode adicionar padrões às peças. Vá ao menu Opções, e ative a opção Padrão.</text>
+		<size _locID="tip_2_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_2_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_2_body2>
+	<tip_3_body1>
+		<text _locID="tip_3_body1"><!-- _locComment_text="" -->Modo de Maratona</text>
+		<size _locID="tip_3_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_3_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body1>
+	<tip_3_body2>
+		<text _locID="tip_3_body2"><!-- _locComment_text="" -->Não deixe suas flores-estrela caírem no fundo do tabuleiro. Assim, ficará mais difícil criar pérolas negras. </text>
+		<size _locID="tip_3_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body2>
+	<tip_3_body3>
+		<text _locID="tip_3_body3"><!-- _locComment_text="" -->Comece a fazer flores cedo. É mais fácil no início, quando há menos cores de peças.</text>
+		<size _locID="tip_3_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body3>
+	<tip_3_body4>
+		<text _locID="tip_3_body4"><!-- _locComment_text="" -->Elimine primeiro as bombas! Quando uma bomba aparecer, não perca tempo em eliminá-la do tabuleiro.</text>
+		<size _locID="tip_3_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body4>
+	<tip_3_body5>
+		<text _locID="tip_3_body5"><!-- _locComment_text="" -->Crie e elimine grupos abaixo de uma bomba. Isto ajudará você a mover a bomba para perto de duas peças de mesma cor, para formar um grupo.</text>
+		<size _locID="tip_3_body5Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_3_body5Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_3_body5>
+	<tip_4_body1>
+		<text _locID="tip_4_body1"><!-- _locComment_text="" -->Modo Cronometrado</text>
+		<size _locID="tip_4_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_4_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_4_body1>
+	<tip_4_body2>
+		<text _locID="tip_4_body2"><!-- _locComment_text="" -->No Modo Cronometrado, procure ir rápido, sem esquecer de formar grupos sempre que realizar uma rotação. Rotações desnecessárias diminuem o tempo disponível!</text>
+		<size _locID="tip_4_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_4_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_4_body2>
+	<tip_4_body3>
+		<text _locID="tip_4_body3"><!-- _locComment_text="" -->Leia também as dicas para o Modo de Maratona. Elas se aplicam para o Modo Cronometrado também!</text>
+		<size _locID="tip_4_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_4_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_4_body3>
+	<tip_5_body1>
+		<text _locID="tip_5_body1"><!-- _locComment_text="" -->Modo de Sobrevivência</text>
+		<size _locID="tip_5_body1Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+		<font _locID="tip_5_body1Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body1>
+	<tip_5_body2>
+		<text _locID="tip_5_body2"><!-- _locComment_text="" -->Elimine primeiro os elementos das bordas.</text>
+		<size _locID="tip_5_body2Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body2Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body2>
+	<tip_5_body3>
+		<text _locID="tip_5_body3"><!-- _locComment_text="" -->Evite formar colunas altas de peças fixas.</text>
+		<size _locID="tip_5_body3Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body3Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body3>
+	<tip_5_body4>
+		<text _locID="tip_5_body4"><!-- _locComment_text="" -->Sempre que possível, concentre seus esforços em eliminar peças fixas.</text>
+		<size _locID="tip_5_body4Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body4Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body4>
+	<tip_5_body5>
+		<text _locID="tip_5_body5"><!-- _locComment_text="" -->Crie grupos de peças bônus para soltar as peças fixas em torno de um grupo.</text>
+		<size _locID="tip_5_body5Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body5Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body5>
+	<tip_5_body6>
+		<text _locID="tip_5_body6"><!-- _locComment_text="" -->Faça uma flor para soltar todas as peças fixas e eliminar todas as peças de mesma cor que o centro da flor.</text>
+		<size _locID="tip_5_body6Size"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+		<font _locID="tip_5_body6Font"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+	</tip_5_body6>
+
+
+  <Tip_0_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->Selecione três peças adjacentes. Pressione A para girar o grupo no sentido do relógio, ou X no sentido contrário. As peças continuarão a girar até tocar duas peças iguais, ou até voltar a suas posições originais.</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_0_Text>
+  <Tip_1_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->Para ganhar pontos extras, forme grupos usando estrelas.
+Descubra o que acontece ao combinar três peças bônus de qualquer cor!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_1_Text>
+  <Tip_2_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->Tome cuidado com as bombas! Cada movimento seu faz com que a bomba inicie a contagem regressiva. Use a bomba em um grupo antes que ela chegue a zero -- se ela chegar a zero, o jogo acaba!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_2_Text>
+  <Tip_3_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->Para ganhar bônus, crie uma flor!
+Se você ainda não experimentou, cerque uma peça com seis outras de mesma cor para criar uma flor-estrela. Uma flor-estrela gira suas peças de uma maneira diferente!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_3_Text>
+  <Tip_4_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->Crie um grupo de peças da mesma cor usando uma bomba e ao menos uma peça-bônus. Todas as peças desta cor desaparecerão do tabuleiro!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_4_Text>
+  <Tip_5_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->Cerque uma peça com 6 flores-estrela. As flores-estrela somem, e no centro aparece uma pérola negra especial!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_5_Text>
+  <Tip_6_Text>
+    <text _locID="Wait"><!-- _locComment_text="" -->Você chegou ao nível final!
+Crie um grupo ou uma flor de pérolas negras para vencer!</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_6_Text>
+  <Tip_Survival_Text>
+    <text _locID="Tip_Survival_Text"><!-- _locComment_text="" -->Faça grupos para remover as peças do tabuleiro. Esvazie o tabuleiro para vencer.
+Cuidado! As peças que você não remover se fixam ao mudar de nível. Faça grupos com estrelas bônus para soltar peças adjacentes.</text>
+    <size _locID="Tip_Survival_TextSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID="Tip_Survival_TextFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Tip_Survival_Text>
+
+  <Leaderboard_Marathon_Text>
+    <text _locID=""><!-- _locComment_text="" -->Maratona</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Marathon_Text>
+  <Leaderboard_Timed_Text>
+    <text _locID=""><!-- _locComment_text="" -->Cronometrado</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Timed_Text>
+  <Leaderboard_Survival_Text>
+    <text _locID=""><!-- _locComment_text="" -->Sobrevivência</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Survival_Text>
+  <Leaderboard_Sort_Text>
+    <text _locID=""><!-- _locComment_text="" -->Modo Ordenar</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Sort_Text>
+  <Leaderboard_FriendScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->Amigos</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_FriendScores_Text>
+  <Leaderboard_MyScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->Minha Pontuação</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_MyScores_Text>
+  <Leaderboard_TopScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->Total</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_TopScores_Text>
+
+  <rank_text>
+    <text _locID=""><!-- _locComment_text="" -->Class.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </rank_text>
+  <gamertag_text>
+    <text _locID=""><!-- _locComment_text="" -->Gamertag</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </gamertag_text>
+  <score_text>
+    <text _locID=""><!-- _locComment_text="" -->Pontuação</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </score_text>
+  <difficulty_text>
+    <text _locID=""><!-- _locComment_text="" -->Dificuldade:</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </difficulty_text>
+  <Leaderboard_NoScoreFriends_Text>
+    <text _locID=""><!-- _locComment_text="" -->Seus amigos ainda não foram classificados neste Marcador.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_NoScoreFriends_Text>
+  <Leaderboard_NoScoreYou_Text>
+    <text _locID=""><!-- _locComment_text="" -->Você ainda não foi classificado neste Marcador.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_NoScoreYou_Text>
+  <Leaderboard_NoScores_Text>
+    <text _locID=""><!-- _locComment_text="" -->Nenhuma pontuação foi adicionada a este Marcador.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_NoScores_Text>  
+  <Leaderboard_Error_Text>
+    <text _locID=""><!-- _locComment_text="" -->As informações sobre Marcadores não estão disponíveis no momento. Tente mais tarde.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_Error_Text>
+  <Leaderboard_SignedIn_Text>
+    <text _locID=""><!-- _locComment_text="" -->Conectado em:</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->22</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </Leaderboard_SignedIn_Text>
+  <leaderboard_score>
+    <text _locID="Wait"><!-- _locComment_text="" -->Pontuação final:</text>
+    <size _locID="WaitSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID="WaitFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </leaderboard_score>
+
+
+
+  <notsignedintolive_text>
+    <text _locID=""><!-- _locComment_text="" -->Você precisa se conectar ao serviço Xbox Live para ver ou fazer o upload de Marcadores. Pressione o botão Painel Xbox para se conectar agora, ou pressione B para voltar.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </notsignedintolive_text>
+  <notsignedintolive_back_text>
+    <text _locID=""><!-- _locComment_text="" -->Voltar</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </notsignedintolive_back_text>
+
+  <resumegame_hdr>
+    <text _locID=""><!-- _locComment_text="" -->Voltar ao Jogo?</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->24</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_hdr>
+  <resumegame_marathon_body>
+    <text _locID=""><!-- _locComment_text="" -->Você quer continuar seu último jogo no modo Maratona ou reiniciar? Lembre-se, se você reiniciar, você perderá seu jogo anterior.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_marathon_body>
+  <resumegame_timed_body>
+    <text _locID=""><!-- _locComment_text="" -->Você quer continuar seu último jogo no modo Cronometrado ou reiniciar? Lembre-se, se você reiniciar, você perderá seu jogo anterior.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_timed_body>
+  <resumegame_survival_body>
+    <text _locID=""><!-- _locComment_text="" -->Você quer continuar seu último jogo no modo Sobrevivência ou reiniciar? Lembre-se, se você reiniciar, você perderá seu jogo anterior.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_survival_body>
+  <resumegame_yes_text>
+    <text _locID=""><!-- _locComment_text="" -->Voltar ao Jogo</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_yes_text>
+  <resumegame_no_text>
+    <text _locID=""><!-- _locComment_text="" -->Novo Jogo</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->20</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </resumegame_no_text>
+  
+  <startup_text>
+    <text _locID=""><!-- _locComment_text="" -->Pressione A para continuar.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </startup_text>
+  <startup_profile_text>
+    <text _locID=""><!-- _locComment_text="" -->Você deve se conectar com um perfil para jogar.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </startup_profile_text>
+  <startup_signedout_text>
+    <text _locID=""><!-- _locComment_text="" -->Você se desconectou de seu perfil, seu jogo foi perdido.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </startup_signedout_text>
+
+  <main_standardtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Fique uma jogada à frente das bombas!</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_standardtooltip_text>
+  <main_timedtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Apresse-se... o tempo está acabando!</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_timedtooltip_text>
+  <main_survivaltooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->As peças que você não usou ficam presas ao tabuleiro!</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_survivaltooltip_text>
+  <main_optionstooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Modifique suas preferências, e veja quem fez este jogo.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_optionstooltip_text>
+  <main_tutorialtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Aprenda a jogar, e descubra dicas e estratégias.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_tutorialtooltip_text>
+  <main_leaderboardtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Ver pontuações altas do Xbox Live.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_leaderboardtooltip_text>
+  <main_exittooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Sair do Hexic e ir para o menu do Arcade.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_exittooltip_text>
+  <main_exittodashtooltip_text>
+    <text _locID=""><!-- _locComment_text="" -->Sair do Hexic, e ir para a Menu Xbox.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_exittodashtooltip_text>
+  <main_achievementstip_text>
+    <text _locID=""><!-- _locComment_text="" -->Exibir os prêmios que você conquistou.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </main_achievementstip_text>  
+
+
+  <controls_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->Controles do Jogo</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->30</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_hdr_text>
+  <controls_rotateccw_text>
+    <text _locID=""><!-- _locComment_text="" -->Sentido contrário</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_rotateccw_text>
+  <controls_rotatecw_text>
+    <text _locID=""><!-- _locComment_text="" -->Sentido do relógio</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_rotatecw_text>
+  <controls_guide_text>
+    <text _locID=""><!-- _locComment_text="" -->Painel Xbox</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_guide_text>
+  <controls_pause_text>
+    <text _locID=""><!-- _locComment_text="" -->Pausa</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_pause_text>
+  <controls_navigate_text>
+    <text _locID=""><!-- _locComment_text="" -->Mover o Cursor</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_navigate_text>
+  <controls_back_text>
+    <text _locID=""><!-- _locComment_text="" -->Voltar</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </controls_back_text>
+
+  <nohd_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->Pré-requisito: Disco rígido Xbox 360</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->32</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </nohd_hdr_text>
+  <nohd_body_text>
+    <text _locID=""><!-- _locComment_text="" -->Para ser jogado, o Hexic HD precisa do disco rígido da Xbox 360. Desligue seu console Xbox 360 e acople um disco rígido Xbox 360 antes de jogar.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </nohd_body_text>
+
+  <fileio_read_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->Impossível ler perfil</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_read_hdr_text>
+  <fileio_read_body_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic não consegue ler o progresso de seu jogo e suas configurações agora. Pressione A para continuar.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_read_body_text>
+  <fileio_write_hdr_text>
+    <text _locID=""><!-- _locComment_text="" -->Impossível salvar no perfil</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_write_hdr_text>
+  <fileio_write_body_text>
+    <text _locID=""><!-- _locComment_text="" -->Hexic não consegue salvar o progresso de seu jogo e suas configurações agora. Pressione A para continuar sem salvar.</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_write_body_text>
+  <fileio_button_text>
+    <text _locID=""><!-- _locComment_text="" -->OK</text>
+    <size _locID=""><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->16</size>
+    <font _locID=""><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>
+  </fileio_button_text>
+
+</HexicDeluxe>

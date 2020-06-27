@@ -1,0 +1,40 @@
+<!-- HexicKiosk Localization Strings -->
+<HexicKiosk>
+  <welcome_header>
+    <text _locID="welcome_header_title"><!-- _locComment_text="" -->Xbox Live(R) Arcade の Hexic(R) HD へようこそ!</text>
+    <size _locID="welcome_header_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="welcome_header_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>  
+  </welcome_header>
+  <welcome_body>
+    <text _locID="welcome_body_title"><!-- _locComment_text="" -->Hexic HD は、Xbox 360(TM) の Xbox Live Arcade でお楽しみいただける、Tetris(R) のクリエイターによって開発されたパズル ゲームです。Xbox Live Arcade は、Xbox 360 本体からカジュアル ゲームのお試し版をプレイしたり、購入したりできます。すべての Xbox Live Arcade ゲームには無料のお試し版が用意されており、Xbox Live ゴールド メンバーシップまたはシルバー メンバーシップをお持ちであれば、ハードディスクかメモリー ユニットのいずれかにダウンロードできます。</text>
+    <size _locID="welcome_body_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="welcome_body_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>  
+  </welcome_body>
+  <welcome_footer>
+    <text _locID="welcome_footer_title"><!-- _locComment_text="" -->Hexic HD のデモ版をお楽しみください!</text>
+    <size _locID="welcome_footer_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="welcome_footer_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>  
+  </welcome_footer>
+
+  <continue_button>
+    <text _locID="continue_button_title"><!-- _locComment_text="" -->{A} ボタンを押して続けてください!</text>
+    <size _locID="continue_button_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="continue_button_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>  
+  </continue_button>
+
+  <goodbye_header>
+    <text _locID="goodbye_header_title"><!-- _locComment_text="" -->Hexic HD をプレイしていただき、ありがとうございました!</text>
+    <size _locID="goodbye_header_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="goodbye_header_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>  
+  </goodbye_header>
+  <goodbye_body>
+    <text _locID="goodbye_body_title"><!-- _locComment_text="" -->Hexic HD は、Xbox 360(TM) の Xbox Live Arcade でお楽しみいただける、Tetris(R) のクリエイターによって開発されたパズル ゲームです。Xbox Live Arcade は、Xbox 360 本体からカジュアル ゲームのお試し版をプレイしたり、購入したりできます。すべての Xbox Live Arcade ゲームには無料のお試し版が用意されており、Xbox Live ゴールド メンバーシップまたはシルバー メンバーシップをお持ちであれば、ハードディスクかメモリー ユニットのいずれかにダウンロードできます。</text>
+    <size _locID="goodbye_body_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="goodbye_body_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>  
+  </goodbye_body>
+  <goodbye_footer>
+    <text _locID="goodbye_footer_title"><!-- _locComment_text="" -->Hexic HD のデモ版はいかがでしたか? Xbox Live Arcade であなたをお待ちしています!</text>
+    <size _locID="goodbye_footer_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="goodbye_footer_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Gothic</font>  
+  </goodbye_footer>
+</HexicKiosk>

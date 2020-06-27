@@ -1,0 +1,40 @@
+﻿<!-- HexicKiosk Localization Strings -->
+<HexicKiosk>
+  <welcome_header>
+    <text _locID="welcome_header_title"><!-- _locComment_text="" -->¡Bienvenido a Hexic® HD para Xbox Live® Arcade!</text>
+    <size _locID="welcome_header_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="welcome_header_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </welcome_header>
+  <welcome_body>
+    <text _locID="welcome_body_title"><!-- _locComment_text="" -->Hexic HD, un adictivo puzzle del creador de Tetris®,  es uno de los muchos juegos disponibles en Xbox Live Arcade para Xbox 360™. Xbox Live Arcade es el centro donde los usuarios de Xbox 360 encuentran, descargan y prueban pequeños juegos directamente en sus consolas. Xbox Live Arcade es uno de los botones principales en Games Blade. Puedes ir directamente a Xbox Live Arcade desde la Interfaz Xbox, donde accedes a tu colección de juegos y la organizas, compruebas los nuevos lanzamientos, descargas juegos y disfrutas de otras funciones especiales. Todos los juegos de Xbox Live Arcade incluyen una versión gratuita y jugable que cualquier miembro de Xbox Live Gold o Silver puede descargar a su disco duro o unidad de memoria.</text>
+    <size _locID="welcome_body_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="welcome_body_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </welcome_body>
+  <welcome_footer>
+    <text _locID="welcome_footer_title"><!-- _locComment_text="" -->Esperamos que te guste esta versión de prueba de Hexic HD. ¡Nos vemos en Arcade!</text>
+    <size _locID="welcome_footer_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="welcome_footer_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </welcome_footer>
+
+  <continue_button>
+    <text _locID="continue_button_title"><!-- _locComment_text="" -->Pulsa el botón {A} para continuar.</text>
+    <size _locID="continue_button_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->14</size>
+    <font _locID="continue_button_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </continue_button>
+
+  <goodbye_header>
+    <text _locID="goodbye_header_title"><!-- _locComment_text="" -->Gracias por jugar a Hexic HD de Xbox Live Arcade.</text>
+    <size _locID="goodbye_header_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->18</size>
+    <font _locID="goodbye_header_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </goodbye_header>
+  <goodbye_body>
+    <text _locID="goodbye_body_title"><!-- _locComment_text="" -->Hexic HD, un adictivo puzzle del creador de Tetris®,  es uno de los muchos juegos disponibles en Xbox Live Arcade para Xbox 360™. Xbox Live Arcade es el centro donde los usuarios de Xbox 360 encuentran, descargan y prueban pequeños juegos directamente en sus consolas. Xbox Live Arcade es uno de los botones principales en Games Blade. Puedes ir directamente a Xbox Live Arcade desde la Interfaz Xbox, donde accedes a tu colección de juegos y la organizas, compruebas los nuevos lanzamientos, descargas juegos y disfrutas de otras funciones especiales. Todos los juegos de Xbox Live Arcade incluyen una versión gratuita y jugable que cualquier miembro de Xbox Live Gold o Silver puede descargar a su disco duro o unidad de memoria.</text>
+    <size _locID="goodbye_body_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="goodbye_body_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </goodbye_body>
+  <goodbye_footer>
+    <text _locID="goodbye_footer_title"><!-- _locComment_text="" -->Esperamos que te haya gustado esta versión de prueba de Hexic HD. ¡Nos vemos en Arcade!</text>
+    <size _locID="goodbye_footer_titleSize"><!-- _locComment_text="Change only if the content does not fit {Formatting=Number}" -->12</size>
+    <font _locID="goodbye_footer_titleFont"><!-- _locComment_text="Change only if the default does not support the target language" -->Arial</font>  
+  </goodbye_footer>
+</HexicKiosk>
