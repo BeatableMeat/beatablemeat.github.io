@@ -2,11 +2,24 @@
 <html>
 <head>
 <title>Hexic</title>
+    <link rel="stylesheet" href="styles.css" type="text/css" />
 </head>
 <body>
-<object width="1920" height="1080">
-    <param name="movie" value="HexicDeluxe.swf">
-    <embed src="HexicDeluxe.swf" width="1920" height="1080" />
-</object>
+    <div style="width:1920px;height:1080px;position:relative;">
+        <div style="position:absolute; z-index:1;">
+            <object width="1920" height="1080" id="hexicbground">
+                <param name="wmode" value="transparent">
+                <embed src="HexicHDLoading.swf" width="1280" height="720" value="transparent" />
+            </object>
+        </div>
+        <div style="position:relative; z-index:2;">
+            <div class="hexicframe">
+                <object width="1280" height="720" id="hexicframe">
+                    <param name="movie" value="HexicDeluxe.swf">
+                    <embed src="HexicDeluxe.swf" width="1280" height="720" />
+                </object>
+            </div>
+        </div>
+        </div>
 </body>
 </html>
