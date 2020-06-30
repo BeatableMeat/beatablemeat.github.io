@@ -7,7 +7,7 @@
     align-content: center;
     justify-content: center;
     padding: 10px;
-    display: flex;
+    display: table;
 }
 
 body {
