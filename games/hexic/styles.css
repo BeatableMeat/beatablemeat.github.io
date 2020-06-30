@@ -4,6 +4,8 @@
     margin-bottom: auto;
     margin-left: auto;
     width: 50%;
+    align-content: center;
+    justify-content: center;
     padding: 10px;
 }
 
