@@ -1,5 +1,9 @@
 .hexicframe {
     margin: auto;
-    width: 100%;
+    width: 60%;
     padding: 10px;
+}
+
+body {
+    background-color: black;
 }
