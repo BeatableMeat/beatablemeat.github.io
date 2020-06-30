@@ -14,3 +14,4 @@ function selectRandom() {
 }
 
 selectRandom(); // Select initial song
+player.play();
