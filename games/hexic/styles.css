@@ -1,6 +1,9 @@
 .hexicframe {
-    margin: auto;
-    width: 60%;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    width: 50%;
     padding: 10px;
 }
 
